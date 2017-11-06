@@ -62,6 +62,7 @@ class LabelTool():
         self.label = Label(self.frame, text = "Image Dir:")
         self.label.grid(row = 0, column = 0, sticky = E)
         self.entry = Entry(self.frame)
+	self.entry.insert(END, '1')
         self.entry.grid(row = 0, column = 1, sticky = W+E)
         self.ldBtn = Button(self.frame, text = "Load", command = self.loadDir)
         self.ldBtn.grid(row = 0, column = 2,sticky = W+E)
@@ -89,8 +90,9 @@ class LabelTool():
         self.classcandidate['values'] = self.cla_can_temp
         self.classcandidate.current(0)
         self.currentLabelclass = self.classcandidate.get() #init
-        self.btnclass = Button(self.frame, text = 'ComfirmClass', command = self.setClass)
-        self.btnclass.grid(row=2,column=2,sticky = W+E)
+        self.classcandidate.bind("<<ComboboxSelected>>", self.setClass)
+	#self.btnclass = Button(self.frame, text = 'ComfirmClass', command = self.setClass)
+        #self.btnclass.grid(row=2,column=2,sticky = W+E)
 
         # showing bbox info & delete bbox
         self.lb1 = Label(self.frame, text = 'Bounding boxes:')
@@ -135,6 +137,7 @@ class LabelTool():
 
         self.frame.columnconfigure(1, weight = 1)
         self.frame.rowconfigure(4, weight = 1)
+	self.loadDir()
 
         # for debugging
 ##        self.setImage()
@@ -308,7 +311,7 @@ class LabelTool():
             self.cur = idx
             self.loadImage()
 
-    def setClass(self):
+    def setClass(self, *args, **kwargs):
     	self.currentLabelclass = self.classcandidate.get()
     	print 'set label class to :',self.currentLabelclass
 
