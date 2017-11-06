@@ -73,7 +73,7 @@ class LabelTool():
         self.mainPanel.bind("<Motion>", self.mouseMove)
         self.parent.bind("<Escape>", self.cancelBBox)  # press <Espace> to cancel current bbox
         self.parent.bind("s", self.cancelBBox)
-        self.parent.bind("a", self.prevImage) # press 'a' to go backforward
+        self.parent.bind("a", self.prevImage) # press 'a' to go backwards
         self.parent.bind("d", self.nextImage) # press 'd' to go forward
         self.mainPanel.grid(row = 1, column = 1, rowspan = 4, sticky = W+N)
 
@@ -122,14 +122,14 @@ class LabelTool():
 
 
         # example pannel for illustration
-        self.egPanel = Frame(self.frame, border = 10)
-        self.egPanel.grid(row = 1, column = 0, rowspan = 5, sticky = N)
-        self.tmpLabel2 = Label(self.egPanel, text = "Examples:")
-        self.tmpLabel2.pack(side = TOP, pady = 5)
-        self.egLabels = []
-        for i in range(3):
-            self.egLabels.append(Label(self.egPanel))
-            self.egLabels[-1].pack(side = TOP)
+        #self.egPanel = Frame(self.frame, border = 10)
+        #self.egPanel.grid(row = 1, column = 0, rowspan = 5, sticky = N)
+        #self.tmpLabel2 = Label(self.egPanel, text = "Examples:")
+        #self.tmpLabel2.pack(side = TOP, pady = 5)
+        #self.egLabels = []
+        #for i in range(3):
+        #    self.egLabels.append(Label(self.egPanel))
+        #    self.egLabels[-1].pack(side = TOP)
 
         # display mouse position
         self.disp = Label(self.ctrPanel, text='')
@@ -141,7 +141,7 @@ class LabelTool():
 
         # for debugging
 ##        self.setImage()
-##        self.loadDir()
+##        self.loadDir()		
 
     def loadDir(self, dbg = False):
         if not dbg:
@@ -182,15 +182,15 @@ class LabelTool():
         self.tmp = []
         self.egList = []
         random.shuffle(filelist)
-        for (i, f) in enumerate(filelist):
-            if i == 3:
-                break
-            im = Image.open(f)
-            r = min(SIZE[0] / im.size[0], SIZE[1] / im.size[1])
-            new_size = int(r * im.size[0]), int(r * im.size[1])
-            self.tmp.append(im.resize(new_size, Image.ANTIALIAS))
-            self.egList.append(ImageTk.PhotoImage(self.tmp[-1]))
-            self.egLabels[i].config(image = self.egList[-1], width = SIZE[0], height = SIZE[1])
+        #for (i, f) in enumerate(filelist):
+        #    if i == 3:
+        #        break
+        #    im = Image.open(f)
+        #    r = min(SIZE[0] / im.size[0], SIZE[1] / im.size[1])
+        #    new_size = int(r * im.size[0]), int(r * im.size[1])
+        #    self.tmp.append(im.resize(new_size, Image.ANTIALIAS))
+        #    self.egList.append(ImageTk.PhotoImage(self.tmp[-1]))
+        #    self.egLabels[i].config(image = self.egList[-1], width = SIZE[0], height = SIZE[1])
 
         self.loadImage()
         print '%d images loaded from %s' %(self.total, s)
