@@ -16,7 +16,7 @@ import glob
 import random
 
 # colors for the bboxes
-COLORS = ['red', 'blue', 'olive', 'teal', 'cyan', 'green', 'black']
+COLORS = ['red', 'blue', 'yellow', 'olive drab', 'purple', 'cyan', 'green', 'gold', 'orange', 'deep pink',]
 # image sizes for the examples
 SIZE = 256, 256
 
