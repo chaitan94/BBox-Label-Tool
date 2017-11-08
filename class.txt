@@ -1,3 +1,9 @@
-dog
-cat
-baby
+Pedestrian
+Truck
+Car
+Cyclist
+DontCare
+Misc
+Van
+Tram
+Person_sitting
