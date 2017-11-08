@@ -60,7 +60,7 @@ for txt_name in txt_name_list:
     txt_path = mypath + txt_name
     print("Input:" + txt_path)
     txt_file = open(txt_path, "r")
-    lines = txt_file.read().split('\r\n')   #for ubuntu, use "\r\n" instead of "\n"
+    lines = txt_file.read().split('\n')   #for ubuntu, use "\r\n" instead of "\n"
     
     """ Open output text files """
     txt_outpath = outpath + txt_name
@@ -103,6 +103,6 @@ for txt_name in txt_name_list:
 
     """ Save those images with bb into list"""
     if(ct != 0):
-        list_file.write('%s/images/%s/%s.JPG\n'%(wd, cls, os.path.splitext(txt_name)[0]))
+        list_file.write('Images/%s.JPG\n'%(os.path.splitext(txt_name)[0]))
                 
 list_file.close()       
