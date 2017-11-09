@@ -1,11 +1,8 @@
-# -*- coding: utf-8 -*-
 """
-Created on Wed Dec  9 14:55:43 2015
-
-This script is to convert the txt annotation files to appropriate format needed by YOLO 
-
+Original Created on Wed Dec  9 14:55:43 2015
+This script is to convert the txt annotation files to appropriate format needed by YOLO
 @author: Guanghan Ning
-Email: gnxr9@mail.missouri.edu
+modified by: Chris Ros, Nektarios Evangelou
 """
 
 import os
@@ -27,11 +24,11 @@ def convert(size, box):
     y = y*dh
     h = h*dh
     return (x,y,w,h)
-    
-    
-"""-------------------------------------------------------------------""" 
 
-""" Configure Paths """   
+
+"""-------------------------------------------------------------------"""
+
+""" Configure Paths """
 mypath = "Labels/002/"
 outpath = "Labels/converted/{}/".format(int(time.time()))
 class_loc = "class.txt"
@@ -55,25 +52,22 @@ print(txt_name_list)
 """ Process """
 for txt_name in txt_name_list:
     # txt_file =  open("Labels/stop_sign/001.txt", "r")
-    
+
     """ Open input text files """
     txt_path = mypath + txt_name
     print("Input:" + txt_path)
     txt_file = open(txt_path, "r")
     lines = txt_file.read().split('\n')   #for ubuntu, use "\r\n" instead of "\n"
-    
+
     """ Open output text files """
     txt_outpath = outpath + txt_name
     print("Output:" + txt_outpath)
     txt_outfile = open(txt_outpath, "w")
-    
-    
+
+
     """ Convert the data to YOLO format """
     ct = 0
     for line in lines:
-        #print('lenth of line is: ')
-        #print(len(line))
-        #print('\n')
         if(len(line) >= 2):
             ct = ct + 1
             print(line + "\n")
@@ -84,25 +78,17 @@ for txt_name in txt_name_list:
             ymin = elems[1]
             ymax = elems[3]
             cls = elems[4]
-            #
             img_path = str(images_path % (os.path.splitext(txt_name)[0]))
-            #t = magic.from_file(img_path)
-            #wh= re.search('(\d+) x (\d+)', t).groups()
             im=Image.open(img_path)
             w = int(im.size[0])
             h = int(im.size[1])
-            #w = int(xmax) - int(xmin)
-            #h = int(ymax) - int(ymin)
-            # print(xmin)
-            print(w, h)
             b = (float(xmin), float(xmax), float(ymin), float(ymax))
             bb = convert((w,h), b)
-            print(bb)
             cls_id = classes.index(cls)
             txt_outfile.write(str(cls_id) + " " + " ".join([str(a) for a in bb]) + '\n')
 
     """ Save those images with bb into list"""
     if(ct != 0):
         list_file.write('Images/%s.JPG\n'%(os.path.splitext(txt_name)[0]))
-                
-list_file.close()       
+
+list_file.close()
