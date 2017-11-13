@@ -123,7 +123,7 @@ Orange_pawn
 Red_white_pawn
 Guidance_beacon
 Guidance_beacon_left
-Guidance_beacon_left
+Guidance_beacon_right
 Right_of_way_road_markings
 Pedestrian_crossing_marking
 Bicycle_lane
