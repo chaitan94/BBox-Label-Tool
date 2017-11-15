@@ -17,27 +17,13 @@ Voor het beginnen met labelen moet het volgende gebeuren:
 
 Wanneer je een image hebt gelabeld moet je in de tool op Next klikken om de labels op te laten slaan. Het idee is om het werk te verdelen, dat betekent wanneer iemand klaar is met de opgenomen taak om x t/m y images te labelen dan moet diegene de resultaten pushen naar de master.
 
-## New Usage
-### For multi-class task, modify 'class.txt' with your own class-candidates and before labeling bbox, choose the 'Current Class' in the Combobox and make sure you click 'ComfirmClass' button.
 
-### The remaining usage is the same as the origin one.
-
-------------------------------------
-
-**Contact info**: jxgu1016@gmail.com
-
-------------------------------------
 
 BBox-Label-Tool
 ===============
 
 A simple tool for labeling object bounding boxes in images, implemented with Python Tkinter.
 
-**Updates:**
-- 2017.5.21 Check out the ```multi-class``` branch for a multi-class version implemented by @jxgu1016
-
-**Screenshot:**
-![Label Tool](./screenshot.png)
 
 Data Organization
 -----------------
@@ -51,17 +37,28 @@ LabelTool
 |  
 |--Examples/  *# direcotry for the example bboxes*  
 
-Environment
+
+
+## Setup
 ----------
+### dependencies:
+ - python-imaging-tk
+    sudo apt-get install python-imaging-tk
+    
+### Environment
 - python 2.7
 - python PIL (Pillow)
 
-Run
--------
+## Run BBOX
+----------
 $ python main.py
 
+## Convert to Yolo
+----------
+$ python convert.py
+
 Usage
------
+----------
 0. The current tool requires that **the images to be labeled reside in /Images/001, /Images/002, etc. You will need to modify the code if you want to label images elsewhere**.
 1. Input a folder number (e.g, 1, 2, 5...), and click `Load`. The images in the folder, along with a few example results will be loaded.
 2. To create a new bounding box, left-click to select the first vertex. Moving the mouse to draw a rectangle, and left-click again to select the second vertex.
