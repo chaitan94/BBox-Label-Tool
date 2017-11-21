@@ -1,0 +1,15 @@
+662 174 728 228 Van
+552 172 630 199 Tram
+612 185 658 222 Car
+1132 176 1163 201 Car
+1093 177 1129 200 Car
+1034 179 1058 197 Car
+1002 179 1027 196 Car
+868 176 904 191 Car
+834 176 862 191 Car
+765 68 785 186 Lamppost
+276 202 292 234 Guidance_beacon_right
+401 196 413 224 Guidance_beacon_right
+447 193 456 218 Guidance_beacon_right
+469 193 478 216 Guidance_beacon_right
+484 194 491 210 Guidance_beacon_right

@@ -1,0 +1,13 @@
+169 192 205 238 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+339 183 377 208 Car
+560 182 617 229 Car
+506 182 548 213 Car
+717 176 762 193 Car
+831 181 878 201 Car
+213 178 297 228 Car
+440 179 451 214 Guidance_beacon_right
+559 71 568 95 Traffic_lights
+454 139 464 165 Traffic_lights
+729 140 738 162 Traffic_lights
+742 184 751 212 Guidance_beacon_left
+725 121 744 140 Priority_road

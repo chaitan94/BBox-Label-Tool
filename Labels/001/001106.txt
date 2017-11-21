@@ -1,0 +1,14 @@
+940 27 1234 368 Van
+435 188 479 305 Pedestrian
+367 182 402 285 Pedestrian
+496 180 518 261 Pedestrian
+590 177 606 232 Pedestrian
+872 169 906 255 Pedestrian
+564 175 580 224 Pedestrian
+609 175 616 207 Pedestrian
+626 176 642 213 Pedestrian
+114 82 190 251 Window
+385 17 423 98 Window
+495 22 516 62 Window
+755 26 777 202 Lamppost
+689 111 709 128 Forbidden_to_park

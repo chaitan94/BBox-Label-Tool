@@ -1,0 +1,3 @@
+539 178 572 204 Car
+386 242 585 373 Continious_lane
+648 228 832 373 Continious_lane

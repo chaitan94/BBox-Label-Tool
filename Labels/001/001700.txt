@@ -1,0 +1,8 @@
+828 168 1086 265 Car
+667 163 700 252 Cyclist
+331 164 375 255 Pedestrian
+565 167 583 200 Cyclist
+648 143 666 163 Stop_sign
+501 106 519 212 Lamppost
+540 125 552 196 Lamppost
+208 5 251 333 Lamppost

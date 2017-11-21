@@ -1,0 +1,15 @@
+695 252 900 372 Continious_lane
+968 140 1103 372 Cyclist
+682 180 700 221 Guidance_beacon_left
+654 176 664 202 Guidance_beacon_left
+640 174 651 196 Guidance_beacon_left
+401 193 412 231 Guidance_beacon_right
+457 185 465 211 Guidance_beacon_right
+481 178 492 204 Guidance_beacon_right
+252 193 345 238 Scare_fence
+5 219 144 375 Car
+535 174 558 196 Car
+353 17 367 191 Lamppost
+450 76 454 168 Lamppost
+5 145 87 213 Window
+104 158 168 210 Window

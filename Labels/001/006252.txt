@@ -1,0 +1,5 @@
+548 178 578 202 Car
+574 176 591 192 Car
+365 243 582 372 Continious_lane
+630 261 782 371 Continious_lane
+80 281 345 369 Continious_lane

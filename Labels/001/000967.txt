@@ -1,0 +1,5 @@
+541 162 585 201 Car
+467 166 505 197 Car
+455 162 467 185 Car
+366 253 487 379 Continious_lane
+949 285 1236 372 Continious_lane

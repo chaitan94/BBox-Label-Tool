@@ -1,0 +1,13 @@
+291 180 329 272 Pedestrian
+268 187 287 206 One_way_street
+614 175 627 194 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+982 168 1108 203 Car
+511 176 539 196 Car
+555 179 583 196 Car
+580 175 602 191 Car
+535 177 556 196 Car
+306 93 326 151 Traffic_lights
+398 106 430 127 Window
+192 188 223 209 Scare_fence
+218 188 253 212 Scare_fence
+146 192 193 213 Scare_fence

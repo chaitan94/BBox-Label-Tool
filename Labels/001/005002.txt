@@ -1,0 +1,7 @@
+1012 34 1046 304 Traffic_lights
+375 23 440 309 Traffic_lights
+380 177 439 243 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+1065 16 1138 76 Give_way_sign
+1056 152 1241 230 Car
+495 172 633 227 Car
+206 181 380 263 Car

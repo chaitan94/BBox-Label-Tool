@@ -1,0 +1,7 @@
+663 263 870 370 Continious_lane
+127 197 400 331 Car
+518 218 577 258 Continious_lane
+412 208 504 245 Continious_lane
+461 178 479 206 Cyclist
+444 180 458 208 Cyclist
+680 166 704 184 Car

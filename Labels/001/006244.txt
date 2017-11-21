@@ -1,0 +1,4 @@
+51 193 93 217 Car
+215 114 260 157 Warning_for_children
+8 188 20 224 Guidance_beacon_left
+121 186 139 222 Guidance_beacon_right

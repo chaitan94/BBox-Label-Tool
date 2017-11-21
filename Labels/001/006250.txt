@@ -1,0 +1,7 @@
+708 254 1051 368 Continious_lane
+320 149 403 216 Truck
+479 172 501 200 Van
+552 179 570 197 Car
+526 184 541 195 Car
+48 196 197 273 Car
+301 188 313 219 Guidance_beacon_right

@@ -1,0 +1,9 @@
+320 3 363 90 Traffic_lights
+888 178 1202 273 Car
+32 184 245 260 Car
+798 149 815 169 Give_way_sign
+1126 186 1147 212 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+606 179 622 196 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+281 141 296 159 Priority_crossing_point
+610 4 618 184 Lamppost
+594 80 601 189 Lamppost

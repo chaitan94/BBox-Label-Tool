@@ -1,0 +1,13 @@
+530 172 572 203 Car
+587 171 617 196 Car
+568 170 584 186 Car
+332 173 400 203 Car
+111 244 125 276 Guidance_beacon_right
+209 224 225 246 Guidance_beacon_right
+860 5 894 92 Traffic_lights
+959 20 1005 75 Priority_road
+671 175 686 207 Guidance_beacon_left
+651 173 658 199 Guidance_beacon_left
+641 172 648 192 Guidance_beacon_left
+387 183 398 212 Guidance_beacon_left
+406 87 435 212 Lamppost

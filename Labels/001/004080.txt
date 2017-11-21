@@ -1,0 +1,15 @@
+979 89 1003 137 Traffic_lights
+410 108 427 142 Traffic_lights
+467 271 612 373 Continious_lane
+768 167 822 217 Car
+969 57 1005 88 Priority_road
+200 100 256 183 Window
+259 108 302 186 Window
+206 1 252 53 Window
+258 1 296 66 Window
+329 18 359 78 Window
+364 31 390 83 Window
+336 116 363 181 Window
+365 120 391 184 Window
+78 82 158 183 Window
+544 36 560 56 Window

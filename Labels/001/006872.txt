@@ -1,0 +1,8 @@
+764 10 1235 369 Van
+486 172 514 244 Pedestrian
+604 176 628 242 Pedestrian
+288 159 339 276 Pedestrian
+552 173 574 232 Pedestrian
+154 105 224 279 Door
+725 71 751 184 Lamppost
+804 8 822 49 Window

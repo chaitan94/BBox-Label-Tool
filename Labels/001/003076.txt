@@ -1,0 +1,5 @@
+399 184 434 215 Car
+434 183 448 204 Car
+518 103 563 147 Warning_for_children
+380 184 392 208 Guidance_beacon_right
+466 184 477 205 Guidance_beacon_left

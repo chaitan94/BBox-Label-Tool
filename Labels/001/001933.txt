@@ -1,0 +1,12 @@
+183 174 206 249 Guidance_beacon_right
+344 172 361 216 Guidance_beacon_right
+417 170 426 204 Guidance_beacon_right
+444 167 451 194 Guidance_beacon_right
+454 164 459 189 Guidance_beacon_right
+464 164 469 188 Guidance_beacon_right
+468 164 472 188 Guidance_beacon_right
+523 165 531 189 Guidance_beacon_right
+585 169 609 188 Car
+561 166 580 183 Car
+634 168 647 194 Guidance_beacon_left
+623 167 630 184 Guidance_beacon_left

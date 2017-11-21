@@ -1,0 +1,9 @@
+428 178 475 212 Car
+140 188 315 263 Car
+523 176 542 190 Car
+581 177 598 192 Car
+560 175 576 187 Car
+419 179 424 210 Guidance_beacon_right
+479 175 485 198 Guidance_beacon_right
+507 176 514 195 Guidance_beacon_right
+629 260 768 373 Continious_lane

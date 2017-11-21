@@ -1,0 +1,4 @@
+666 208 784 372 Continious_lane
+338 247 609 371 Continious_lane
+36 297 300 371 Continious_lane
+556 178 595 213 Car

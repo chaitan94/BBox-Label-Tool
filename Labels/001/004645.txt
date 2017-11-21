@@ -1,0 +1,8 @@
+598 177 676 235 Car
+416 178 461 207 Car
+338 179 384 209 Car
+966 100 987 129 Window
+944 102 965 131 Window
+911 104 924 134 Window
+745 192 761 235 Guidance_beacon_left
+683 188 695 222 Guidance_beacon_left

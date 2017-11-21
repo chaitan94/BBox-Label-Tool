@@ -1,0 +1,13 @@
+360 192 533 288 Car
+249 196 396 280 Car
+13 204 233 270 Car
+320 4 398 106 Window
+247 14 321 80 Window
+404 5 486 98 Window
+495 6 579 84 Window
+590 4 692 73 Window
+702 3 814 61 Window
+406 114 490 187 Window
+602 74 630 115 Forbidden_to_stand_still
+984 62 1136 156 Window
+1157 55 1241 158 Window

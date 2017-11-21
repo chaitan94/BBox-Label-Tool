@@ -1,0 +1,4 @@
+335 244 605 375 Continious_lane
+621 191 685 252 Continious_lane
+473 181 537 233 Car
+531 178 570 211 Car

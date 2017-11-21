@@ -1,0 +1,8 @@
+1075 71 1130 118 Priority_road
+692 173 736 205 Car
+150 179 293 230 Car
+648 96 658 113 Traffic_lights
+757 139 764 160 Traffic_lights
+569 146 575 161 Traffic_lights
+882 161 942 184 Car
+806 167 853 186 Car

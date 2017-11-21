@@ -1,0 +1,4 @@
+348 261 570 373 Continious_lane
+642 236 785 370 Continious_lane
+501 184 549 220 Car
+560 177 583 198 Car

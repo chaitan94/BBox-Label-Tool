@@ -1,0 +1,5 @@
+667 260 862 372 Continious_lane
+338 216 609 374 Continious_lane
+469 173 485 203 Pedestrian
+708 153 718 165 Give_way_sign
+596 170 608 186 Car

@@ -1,0 +1,11 @@
+993 78 1033 272 Traffic_lights
+345 100 377 242 Traffic_lights
+996 37 1035 75 Priority_road
+105 97 168 194 Window
+175 93 220 193 Window
+264 115 304 187 Window
+307 116 331 191 Window
+305 19 335 87 Window
+256 5 301 72 Window
+110 3 221 59 Window
+745 168 801 219 Car

@@ -1,0 +1,7 @@
+261 187 331 221 Car
+328 183 367 208 Car
+503 174 518 187 Car
+842 166 861 218 Cyclist
+1043 224 1084 286 Guidance_beacon
+845 111 871 136 Priority_road
+649 233 891 378 Continious_lane

@@ -1,0 +1,4 @@
+442 189 524 242 Car
+333 254 622 374 Continious_lane
+634 252 774 373 Continious_lane
+75 302 298 372 Continious_lane

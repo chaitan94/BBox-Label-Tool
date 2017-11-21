@@ -1,0 +1,4 @@
+599 181 663 238 Car
+345 272 594 376 Continious_lane
+695 227 857 321 Continious_lane
+358 40 391 214 Lamppost

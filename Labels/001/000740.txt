@@ -1,0 +1,3 @@
+607 135 626 158 Forbidden_to_stand_still
+795 197 1241 373 Car
+412 182 652 293 Car

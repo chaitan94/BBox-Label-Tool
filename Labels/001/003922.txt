@@ -1,0 +1,6 @@
+885 143 935 319 Pedestrian
+484 73 533 221 Window
+536 70 589 218 Window
+594 69 645 221 Window
+651 70 704 214 Window
+713 72 761 217 Window

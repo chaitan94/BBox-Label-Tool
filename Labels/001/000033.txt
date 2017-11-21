@@ -1,0 +1,9 @@
+639 265 788 373 Continious_lane
+4 195 231 320 Car
+580 174 602 193 Car
+559 172 575 187 Car
+287 180 309 236 Guidance_beacon_right
+436 173 447 204 Guidance_beacon_right
+466 174 476 198 Guidance_beacon_right
+483 172 494 195 Guidance_beacon_right
+616 171 625 191 Guidance_beacon_left

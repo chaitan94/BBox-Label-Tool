@@ -1,0 +1,6 @@
+198 196 238 224 Car
+165 197 174 229 Guidance_beacon_right
+265 195 273 219 Guidance_beacon_left
+331 119 380 160 Warning_for_children
+36 161 46 207 Lamppost
+92 169 101 208 Lamppost

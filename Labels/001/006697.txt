@@ -1,0 +1,6 @@
+525 175 559 203 Car
+631 172 650 187 Car
+604 171 626 188 Car
+209 69 233 246 Lamppost
+669 257 869 373 Continious_lane
+241 217 538 321 Continious_lane

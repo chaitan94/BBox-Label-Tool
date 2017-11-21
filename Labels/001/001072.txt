@@ -1,0 +1,12 @@
+748 194 936 294 Car
+657 177 695 209 Car
+751 177 793 206 Car
+863 179 968 232 Car
+1129 182 1151 216 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+148 187 168 209 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+607 180 622 195 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+605 3 627 212 Lamppost
+316 3 373 100 Traffic_lights
+802 152 815 165 Give_way_sign
+449 113 459 191 Lamppost
+480 124 488 178 Lamppost

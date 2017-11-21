@@ -1,0 +1,5 @@
+780 192 1235 374 Car
+445 182 658 277 Car
+24 160 108 287 Fence
+104 140 135 171 Warning_for_children
+606 136 624 159 Forbidden_to_stand_still

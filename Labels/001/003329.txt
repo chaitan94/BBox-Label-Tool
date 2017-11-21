@@ -1,0 +1,11 @@
+157 157 208 294 Pedestrian
+364 168 385 227 Pedestrian
+437 172 457 220 Pedestrian
+788 165 843 252 Cyclist
+877 171 896 232 Pedestrian
+735 167 758 220 Pedestrian
+555 170 576 207 Cyclist
+578 157 627 196 Car
+979 4 1014 68 Window
+946 15 978 74 Window
+929 29 953 83 Window

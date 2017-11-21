@@ -1,0 +1,5 @@
+663 239 877 376 Continious_lane
+414 241 524 323 Continious_lane
+2 201 324 373 Car
+569 181 623 224 Car
+851 158 907 187 Truck

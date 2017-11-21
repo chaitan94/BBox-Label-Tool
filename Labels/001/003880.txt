@@ -1,0 +1,12 @@
+851 156 894 269 Pedestrian
+605 178 623 225 Pedestrian
+625 176 645 229 Pedestrian
+76 200 134 295 Pedestrian
+3 203 393 373 Car
+479 175 498 229 Pedestrian
+821 182 847 233 Person_sitting
+723 9 765 254 Lamppost
+1183 90 1237 293 Door
+971 127 1016 263 Door
+517 37 540 80 Window
+519 80 539 111 Window

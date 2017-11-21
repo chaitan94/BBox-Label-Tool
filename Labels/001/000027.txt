@@ -1,0 +1,8 @@
+630 250 828 372 Continious_lane
+33 126 330 300 Van
+589 177 608 198 Car
+573 179 585 191 Car
+345 180 356 217 Guidance_beacon_right
+446 178 456 202 Guidance_beacon_right
+497 178 503 198 Guidance_beacon_right
+523 178 529 193 Guidance_beacon_right

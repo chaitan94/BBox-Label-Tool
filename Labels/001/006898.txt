@@ -1,0 +1,4 @@
+255 116 308 159 Warning_for_children
+103 190 146 223 Car
+174 192 188 220 Guidance_beacon_left
+62 197 84 225 Guidance_beacon_right

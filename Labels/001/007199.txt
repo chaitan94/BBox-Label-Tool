@@ -1,0 +1,3 @@
+1002 167 1039 285 Pedestrian
+751 180 769 216 Guidance_beacon
+684 172 695 203 Cyclist

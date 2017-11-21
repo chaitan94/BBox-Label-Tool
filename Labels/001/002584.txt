@@ -1,0 +1,8 @@
+578 178 618 214 Car
+282 182 366 236 Car
+7 134 288 300 Van
+386 125 499 250 Van
+502 158 543 216 Van
+526 141 568 198 Truck
+619 159 639 177 Warning_for_constructions
+360 161 377 179 Warning_for_constructions

@@ -1,0 +1,5 @@
+1108 159 1242 219 Car
+282 160 326 296 Pedestrian
+249 165 289 305 Pedestrian
+23 175 132 339 Pedestrian
+437 142 465 176 Dead_end

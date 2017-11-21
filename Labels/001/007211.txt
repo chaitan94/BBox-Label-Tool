@@ -1,0 +1,16 @@
+835 212 1223 372 Car
+934 179 1127 248 Car
+780 181 854 218 Car
+674 178 724 219 Car
+631 174 648 185 Car
+605 178 621 197 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+1130 187 1147 213 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+152 186 166 208 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+283 139 297 161 Priority_crossing_point
+318 0 362 98 Traffic_lights
+610 5 624 206 Lamppost
+595 80 601 185 Lamppost
+583 124 587 176 Lamppost
+112 1 123 227 Lamppost
+802 150 813 165 Give_way_sign
+911 183 922 212 Guidance_beacon_left

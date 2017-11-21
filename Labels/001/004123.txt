@@ -1,0 +1,9 @@
+798 140 835 176 Max_speed_A01-50
+786 90 847 139 Warning_for_constructions
+645 229 862 371 Continious_lane
+127 247 460 365 Continious_lane
+429 174 493 213 Car
+530 173 571 205 Car
+564 172 586 195 Car
+583 168 604 190 Car
+612 167 637 197 Car

@@ -1,0 +1,4 @@
+652 231 862 372 Continious_lane
+606 171 629 193 Car
+673 167 695 185 Car
+706 125 726 146 Warning_for_traffic_lights

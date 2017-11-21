@@ -1,0 +1,13 @@
+1013 11 1243 257 Truck
+907 200 1238 371 Car
+700 188 796 253 Car
+792 179 858 221 Car
+641 177 672 204 Car
+320 1 362 95 Traffic_lights
+281 142 298 161 Priority_crossing_point
+607 179 619 197 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+148 185 168 207 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+800 149 814 168 Give_way_sign
+610 4 620 189 Lamppost
+593 80 600 190 Lamppost
+913 183 923 210 Guidance_beacon_left

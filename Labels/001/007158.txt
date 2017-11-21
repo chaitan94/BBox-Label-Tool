@@ -1,0 +1,6 @@
+803 164 921 215 Car
+653 163 684 187 Car
+727 38 745 193 Lamppost
+683 85 691 163 Lamppost
+843 78 900 134 Give_way_sign
+2 102 133 202 Fence

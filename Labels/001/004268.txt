@@ -1,0 +1,17 @@
+766 152 855 369 Pedestrian
+853 138 902 367 Pedestrian
+896 156 996 370 Pedestrian
+458 141 526 334 Pedestrian
+365 127 436 348 Pedestrian
+528 149 550 215 Pedestrian
+580 145 599 199 Pedestrian
+546 147 564 200 Pedestrian
+3 106 277 369 Truck
+576 41 598 96 Window
+529 38 551 92 Window
+479 39 497 92 Window
+415 39 435 93 Window
+474 116 499 149 Window
+527 118 547 148 Window
+584 118 601 142 Window
+607 81 620 139 Lamppost

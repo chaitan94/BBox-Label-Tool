@@ -1,0 +1,5 @@
+752 162 798 320 Pedestrian
+486 63 533 220 Window
+536 65 589 219 Window
+592 68 648 231 Window
+645 58 708 216 Window

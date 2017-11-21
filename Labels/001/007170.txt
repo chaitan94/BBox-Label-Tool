@@ -1,0 +1,10 @@
+613 167 639 196 Car
+542 173 579 201 Car
+526 169 546 193 Car
+587 169 610 187 Car
+639 166 654 177 Car
+723 152 744 175 Max_speed_A01-50
+715 123 748 152 Warning_for_constructions
+637 241 921 370 Continious_lane
+115 268 465 372 Continious_lane
+406 212 534 257 Continious_lane

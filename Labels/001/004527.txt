@@ -1,0 +1,17 @@
+4 104 268 369 Truck
+647 139 684 295 Pedestrian
+717 141 761 293 Pedestrian
+572 141 594 218 Pedestrian
+542 142 566 221 Pedestrian
+499 145 522 213 Pedestrian
+474 144 498 212 Pedestrian
+450 149 467 201 Pedestrian
+420 145 439 197 Pedestrian
+280 141 314 216 Pedestrian
+325 157 339 184 Person_sitting
+346 155 362 183 Person_sitting
+577 33 601 107 Window
+520 28 558 108 Window
+471 27 505 99 Window
+608 81 621 135 Lamppost
+980 95 989 122 Lamppost

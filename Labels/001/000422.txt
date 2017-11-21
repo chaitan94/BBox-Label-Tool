@@ -1,0 +1,10 @@
+953 108 1075 263 Door
+168 183 347 303 Car
+106 168 174 367 Pedestrian
+17 183 92 364 Pedestrian
+636 160 664 231 Pedestrian
+473 166 491 212 Pedestrian
+492 167 512 213 Pedestrian
+347 162 376 217 Pedestrian
+377 166 424 278 Cyclist
+565 71 589 178 Lamppost

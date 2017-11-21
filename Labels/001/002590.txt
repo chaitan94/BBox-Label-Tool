@@ -1,0 +1,10 @@
+732 151 994 299 Van
+2 156 228 299 Fence
+712 130 741 157 Give_way_sign
+1086 95 1165 174 Window
+904 12 932 50 Window
+59 3 98 40 Window
+178 21 208 64 Window
+62 99 102 156 Window
+289 27 309 135 Lamppost
+708 75 719 154 Lamppost

@@ -1,0 +1,6 @@
+706 87 786 159 Warning_for_constructions
+433 89 555 225 Truck
+573 177 624 222 Car
+350 197 436 294 Car
+3 59 371 373 Van
+393 245 587 371 Continious_lane

@@ -1,0 +1,5 @@
+566 177 616 225 Car
+548 175 562 188 Car
+617 172 629 184 Car
+675 251 903 374 Continious_lane
+287 262 555 374 Continious_lane

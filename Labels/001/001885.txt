@@ -1,0 +1,16 @@
+432 242 577 372 Continious_lane
+679 235 797 299 Continious_lane
+1031 158 1068 176 Car
+1076 161 1095 179 Car
+1102 161 1119 177 Car
+503 171 566 194 Car
+390 170 451 201 Car
+338 180 386 200 Car
+221 185 309 211 Car
+592 168 612 197 Guidance_beacon
+600 135 612 157 Traffic_lights
+447 137 461 161 Traffic_lights
+672 144 678 167 Traffic_lights
+679 139 690 165 Traffic_lights
+922 129 932 156 Traffic_lights
+613 134 627 154 Priority_road

@@ -1,0 +1,5 @@
+743 188 934 284 Car
+65 188 206 246 Car
+591 160 627 193 Van
+672 273 841 371 Continious_lane
+631 198 719 266 Continious_lane

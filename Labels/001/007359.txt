@@ -1,0 +1,8 @@
+511 172 624 216 Car
+462 173 486 193 Car
+357 173 394 199 Car
+7 234 287 368 Car
+988 46 1013 110 Traffic_lights
+141 73 167 136 Traffic_lights
+499 21 523 176 Lamppost
+542 90 555 160 Lamppost

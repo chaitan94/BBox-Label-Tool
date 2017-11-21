@@ -1,0 +1,8 @@
+740 39 1066 332 Van
+209 168 265 285 Pedestrian
+357 162 394 260 Pedestrian
+509 174 532 241 Pedestrian
+638 175 659 230 Pedestrian
+562 174 585 229 Pedestrian
+668 172 679 204 Pedestrian
+145 132 190 275 Door

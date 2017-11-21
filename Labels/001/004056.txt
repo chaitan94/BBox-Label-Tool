@@ -1,0 +1,7 @@
+571 171 613 212 Car
+234 173 286 199 Car
+375 169 399 185 Car
+437 170 456 181 Car
+179 174 189 206 Guidance_beacon_right
+8 180 15 214 Guidance_beacon_right
+25 183 160 207 Scare_fence

@@ -1,0 +1,11 @@
+1117 194 1187 315 Person_sitting
+895 189 965 272 Pedestrian
+660 175 676 229 Pedestrian
+680 173 701 233 Pedestrian
+497 170 527 232 Pedestrian
+575 175 589 206 Pedestrian
+593 175 607 205 Pedestrian
+711 175 724 203 Pedestrian
+544 16 561 54 Window
+544 60 568 94 Window
+843 208 872 251 Person_sitting

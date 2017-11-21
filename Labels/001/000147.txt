@@ -1,0 +1,17 @@
+504 185 538 230 Person_sitting
+482 184 505 229 Person_sitting
+406 167 438 232 Pedestrian
+709 165 825 256 Car
+549 37 568 64 Window
+580 34 599 70 Window
+579 77 601 112 Window
+551 82 567 114 Window
+627 61 646 98 Window
+628 24 649 52 Window
+516 35 537 67 Window
+391 3 411 61 Window
+414 16 432 78 Window
+337 2 361 41 Window
+798 96 957 204 Window
+802 12 836 290 Lamppost
+672 111 690 194 Lamppost

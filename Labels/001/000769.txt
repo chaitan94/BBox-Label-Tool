@@ -1,0 +1,4 @@
+371 174 397 227 Pedestrian
+321 237 592 371 Continious_lane
+605 168 621 186 Car
+773 147 789 166 Give_way_sign

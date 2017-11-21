@@ -1,0 +1,11 @@
+114 192 146 235 Person_sitting
+302 165 338 260 Pedestrian
+409 169 429 224 Pedestrian
+477 170 494 212 Pedestrian
+721 168 742 213 Pedestrian
+590 160 642 194 Car
+766 166 797 230 Cyclist
+932 34 950 76 Window
+917 38 929 83 Window
+898 49 914 89 Window
+877 66 888 96 Window

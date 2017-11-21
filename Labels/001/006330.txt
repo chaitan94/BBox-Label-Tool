@@ -1,0 +1,16 @@
+778 198 824 269 Guidance_beacon
+932 81 957 142 Traffic_lights
+732 88 758 142 Traffic_lights
+600 1 629 34 Traffic_lights
+260 117 513 231 Truck
+521 176 741 374 Car
+1000 176 1141 216 Car
+611 221 645 255 Dog
+726 49 765 89 Priority_road
+961 134 992 172 Give_way_sign
+53 203 73 225 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+39 21 72 203 Lamppost
+489 47 507 94 Lamppost
+538 95 547 168 Lamppost
+761 308 900 374 Continious_lane
+352 309 505 371 Continious_lane

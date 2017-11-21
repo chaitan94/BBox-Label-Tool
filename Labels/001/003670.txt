@@ -1,0 +1,5 @@
+336 147 399 326 Pedestrian
+482 66 532 225 Window
+535 65 588 222 Window
+593 67 645 214 Window
+650 66 705 218 Window
