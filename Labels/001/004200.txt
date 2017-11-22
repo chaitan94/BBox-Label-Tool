@@ -1,0 +1,3 @@
+274 192 403 262 Car
+477 176 512 225 Cyclist
+1026 119 1058 151 Forbidden_to_park

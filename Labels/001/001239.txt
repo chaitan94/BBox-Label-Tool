@@ -1,0 +1,6 @@
+455 169 633 274 Car
+904 180 936 216 Guidance_beacon_left
+280 182 298 209 Guidance_beacon_left
+364 1 413 24 Priority_road
+277 139 297 160 Priority_crossing_point
+796 150 826 170 Give_way_sign

@@ -1,0 +1,7 @@
+346 181 429 253 Deflective_priority_road_OB701-2
+1034 25 1069 112 Traffic_lights
+364 18 407 115 Traffic_lights
+432 173 598 232 Car
+105 200 320 296 Car
+306 189 336 214 Cyclist
+1069 9 1171 85 Give_way_sign

@@ -1,0 +1,3 @@
+617 151 649 185 Car
+371 175 403 230 Pedestrian
+291 162 331 224 Pedestrian

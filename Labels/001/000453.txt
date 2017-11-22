@@ -1,0 +1,16 @@
+2 213 284 368 Car
+251 173 322 222 Car
+437 174 474 213 Car
+907 157 1056 212 Car
+384 173 402 203 Cyclist
+1010 17 1048 277 Lamppost
+151 67 198 275 Lamppost
+506 33 515 193 Lamppost
+537 101 556 194 Lamppost
+564 175 577 195 Guidance_beacon_right
+543 178 554 198 Guidance_beacon_right
+520 180 532 196 Guidance_beacon_right
+584 178 594 193 Guidance_beacon_right
+594 174 603 191 Guidance_beacon_right
+980 38 1012 121 Traffic_lights
+127 70 174 136 Traffic_lights

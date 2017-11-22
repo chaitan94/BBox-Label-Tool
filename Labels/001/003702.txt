@@ -1,0 +1,9 @@
+153 178 322 268 Car
+505 172 530 202 Car
+583 174 602 194 Car
+561 173 580 189 Car
+535 174 553 190 Car
+355 185 370 222 Guidance_beacon_right
+456 179 465 204 Guidance_beacon_right
+496 176 507 194 Guidance_beacon_right
+629 99 642 185 Lamppost

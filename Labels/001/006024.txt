@@ -1,0 +1,16 @@
+988 42 1018 108 Traffic_lights
+872 132 884 149 Traffic_lights
+140 76 168 136 Traffic_lights
+909 166 940 268 Pedestrian
+888 168 913 264 Pedestrian
+1 225 295 368 Car
+437 171 487 209 Car
+631 166 645 184 Car
+1001 152 1031 219 Cyclist
+519 172 530 197 Guidance_beacon_left
+544 173 557 194 Guidance_beacon_left
+565 173 576 195 Guidance_beacon_left
+585 168 595 192 Guidance_beacon_left
+595 171 606 191 Guidance_beacon_left
+505 28 523 183 Lamppost
+544 97 553 178 Lamppost

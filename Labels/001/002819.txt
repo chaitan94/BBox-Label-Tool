@@ -1,0 +1,14 @@
+204 229 271 323 Guidance_beacon
+342 77 385 111 Give_way_sign
+788 119 810 146 Give_way_sign
+821 152 839 171 Give_way_sign
+676 175 725 198 Car
+592 181 646 200 Car
+521 180 574 200 Car
+455 176 512 202 Car
+339 176 414 205 Car
+281 177 370 215 Car
+753 178 781 195 Car
+667 12 678 200 Lamppost
+351 33 381 249 Lamppost
+373 114 406 149 Warning_for_bad_pavement

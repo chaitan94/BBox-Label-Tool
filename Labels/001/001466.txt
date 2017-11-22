@@ -1,0 +1,13 @@
+854 145 954 188 Car
+532 172 570 195 Car
+605 167 637 191 Cyclist
+561 171 582 192 Cyclist
+409 176 432 204 Cyclist
+464 169 482 202 Pedestrian
+594 165 611 190 Pedestrian
+788 152 839 178 Car
+502 9 521 198 Lamppost
+577 103 590 119 Traffic_lights
+665 138 674 153 Traffic_lights
+512 148 522 166 Traffic_lights
+621 184 1204 369 Parking_lots

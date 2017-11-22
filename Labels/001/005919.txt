@@ -1,0 +1,10 @@
+633 122 648 139 Pedestrian_crossing
+664 161 677 179 Pedestrian_crossing
+587 130 599 143 Pedestrian_crossing
+555 163 572 178 Pedestrian_crossing
+199 146 475 352 Car
+509 181 570 232 Car
+743 205 910 312 Car
+691 199 742 249 Car
+606 188 630 208 Car
+870 222 1240 374 Car

@@ -1,0 +1,3 @@
+246 160 306 310 Pedestrian
+475 67 647 227 Window
+656 58 663 259 Lamppost

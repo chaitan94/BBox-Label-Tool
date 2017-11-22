@@ -1,0 +1,16 @@
+610 8 623 213 Lamppost
+589 90 602 197 Lamppost
+108 3 131 227 Lamppost
+1197 1 1216 253 Lamppost
+1126 183 1146 213 Deflective_priority_road_OB701-2
+149 183 168 203 Deflective_priority_road_OB701-2
+607 179 623 199 Deflective_priority_road_OB701-2
+801 149 816 164 Give_way_sign
+678 174 716 200 Car
+827 179 870 205 Car
+629 175 657 196 Car
+752 154 840 222 Van
+910 178 928 212 Guidance_beacon_right
+318 1 368 99 Traffic_lights
+281 140 298 167 Priority_crossing_point
+283 185 297 207 Guidance_beacon_right

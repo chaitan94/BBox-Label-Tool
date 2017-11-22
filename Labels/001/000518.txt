@@ -1,0 +1,13 @@
+501 148 592 217 Car
+840 145 912 325 Pedestrian
+804 196 843 267 Pedestrian
+836 191 862 278 Pedestrian
+138 168 205 296 Pedestrian
+68 179 133 293 Pedestrian
+427 167 459 235 Cyclist
+441 167 483 227 Cyclist
+592 167 641 217 Cyclist
+275 176 325 233 Cyclist
+24 198 75 272 Person_sitting
+902 187 967 275 Person_sitting
+785 176 821 217 Person_sitting

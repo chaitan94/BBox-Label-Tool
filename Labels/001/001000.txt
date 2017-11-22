@@ -1,0 +1,9 @@
+800 173 1060 251 Car
+560 182 591 208 Car
+472 180 498 214 Car
+372 41 393 224 Lamppost
+427 194 439 226 Pole
+969 5 980 174 Lamppost
+958 115 975 146 Traffic_lights
+399 145 417 173 Traffic_lights
+649 140 672 167 Traffic_lights

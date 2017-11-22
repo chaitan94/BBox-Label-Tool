@@ -1,0 +1,9 @@
+122 165 244 377 Pedestrian
+292 165 339 310 Pedestrian
+333 165 396 310 Pedestrian
+382 178 424 261 Pedestrian
+421 183 460 265 Pedestrian
+741 158 781 257 Pedestrian
+774 161 819 268 Pedestrian
+52 1 175 301 Window
+200 48 327 151 Window

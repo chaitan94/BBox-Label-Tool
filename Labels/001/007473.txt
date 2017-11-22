@@ -1,0 +1,15 @@
+754 160 880 215 Car
+1 207 291 371 Car
+1000 152 1027 220 Cyclist
+877 150 920 199 Cyclist
+507 29 519 193 Lamppost
+542 98 552 171 Lamppost
+520 176 530 195 Guidance_beacon_left
+543 174 556 196 Guidance_beacon_left
+565 174 577 194 Guidance_beacon_left
+584 173 594 192 Guidance_beacon_left
+597 174 602 190 Guidance_beacon_left
+492 174 507 190 Deflective_priority_road_OB701-2
+983 42 1024 116 Traffic_lights
+136 70 171 149 Traffic_lights
+1003 2 1048 24 Priority_road

@@ -1,0 +1,3 @@
+109 172 191 340 Pedestrian
+477 62 646 232 Window
+657 62 668 261 Lamppost

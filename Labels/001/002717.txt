@@ -1,0 +1,8 @@
+550 179 566 202 Car
+524 183 544 197 Car
+463 163 501 209 Misc
+2 86 188 270 Truck
+611 217 928 376 Continious_lane
+349 193 365 214 Guidance_beacon_left
+415 187 425 203 Guidance_beacon_left
+449 186 459 200 Guidance_beacon_left

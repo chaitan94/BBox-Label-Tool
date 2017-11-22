@@ -1,0 +1,17 @@
+576 173 621 209 Window
+537 171 579 205 Window
+4 191 33 277 Guidance_beacon_left
+142 187 165 251 Guidance_beacon_left
+788 199 857 326 Guidance_beacon_right
+670 184 692 224 Guidance_beacon_right
+687 178 703 218 Guidance_beacon_right
+714 182 731 218 Guidance_beacon_right
+80 203 144 296 Guidance_beacon_right
+286 192 328 253 Guidance_beacon_right
+409 183 428 216 Guidance_beacon_right
+471 182 482 212 Guidance_beacon_right
+486 182 495 203 Guidance_beacon_right
+502 176 516 204 Guidance_beacon_right
+521 174 535 196 Guidance_beacon_right
+901 2 912 246 Lamppost
+675 48 686 188 Lamppost

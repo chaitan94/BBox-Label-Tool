@@ -1,0 +1,11 @@
+747 173 823 339 Pedestrian
+829 166 919 341 Pedestrian
+1086 152 1166 305 Pedestrian
+982 159 1059 266 Pedestrian
+347 184 428 275 Pedestrian
+426 176 476 248 Pedestrian
+395 175 438 248 Pedestrian
+646 168 696 244 Pedestrian
+3 169 74 357 Pedestrian
+680 178 709 218 Person_sitting
+701 177 735 221 Person_sitting

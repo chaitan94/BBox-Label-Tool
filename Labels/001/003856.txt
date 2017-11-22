@@ -1,0 +1,17 @@
+654 168 780 218 Car
+1 222 288 371 Car
+1005 153 1031 227 Cyclist
+877 159 913 205 Cyclist
+513 176 532 201 Guidance_beacon_right
+540 173 558 197 Guidance_beacon_right
+567 174 582 197 Guidance_beacon_right
+584 175 595 192 Guidance_beacon_right
+595 173 606 192 Guidance_beacon_right
+494 173 508 188 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+506 31 518 182 Lamppost
+545 96 553 168 Lamppost
+843 1 861 15 Window
+850 17 860 33 Window
+829 4 843 23 Window
+982 45 1019 106 Traffic_lights
+136 72 171 139 Traffic_lights

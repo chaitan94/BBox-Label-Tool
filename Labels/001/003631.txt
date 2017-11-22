@@ -1,0 +1,4 @@
+367 113 408 159 Warning_for_children
+204 196 223 223 Guidance_beacon_left
+300 194 315 217 Guidance_beacon_right
+236 192 279 227 Car

@@ -1,0 +1,7 @@
+87 203 112 254 Guidance_beacon_left
+376 192 391 216 Guidance_beacon_left
+463 188 474 207 Guidance_beacon_left
+508 186 517 202 Guidance_beacon_left
+588 182 610 200 Car
+571 182 585 195 Car
+554 180 568 195 Car

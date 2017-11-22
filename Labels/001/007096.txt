@@ -1,0 +1,17 @@
+605 10 619 211 Lamppost
+112 3 122 224 Lamppost
+1195 5 1218 215 Lamppost
+933 203 1242 375 Car
+732 165 892 269 Car
+660 171 697 215 Car
+630 175 654 198 Car
+710 128 806 208 Truck
+799 152 815 168 Give_way_sign
+144 184 173 207 Deflective_priority_road_OB701-2
+1127 184 1154 210 Deflective_priority_road_OB701-2
+279 142 298 161 One_way_road
+49 112 69 228 Pole
+911 185 926 213 Guidance_beacon_right
+536 168 549 179 Car
+591 85 603 193 Lamppost
+603 180 621 199 Deflective_priority_road_OB701-2

@@ -1,0 +1,3 @@
+869 152 921 289 Pedestrian
+482 72 642 232 Window
+649 68 765 237 Window

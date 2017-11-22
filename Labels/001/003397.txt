@@ -1,0 +1,11 @@
+568 172 608 211 Car
+521 173 557 204 Car
+787 118 802 152 Traffic_lights
+483 175 491 191 Guidance_beacon_right
+492 173 502 186 Guidance_beacon_right
+508 170 513 184 Guidance_beacon_right
+473 170 481 188 Guidance_beacon_left
+490 22 497 190 Lamppost
+778 150 788 232 Pole
+1185 4 1205 272 Lamppost
+1214 1 1241 368 Lamppost

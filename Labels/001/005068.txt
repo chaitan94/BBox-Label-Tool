@@ -1,0 +1,6 @@
+286 184 358 225 Car
+593 158 625 201 Car
+674 64 686 191 Lamppost
+399 90 412 199 Lamppost
+787 3 817 204 Lamppost
+933 1 957 218 Lamppost

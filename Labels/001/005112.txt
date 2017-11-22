@@ -1,0 +1,13 @@
+338 172 377 217 Cyclist
+0 210 291 370 Car
+445 176 502 205 Car
+176 182 276 228 Car
+1077 147 1213 211 Car
+131 67 174 146 Traffic_lights
+981 42 1017 116 Traffic_lights
+517 172 530 204 Guidance_beacon_left
+542 172 555 198 Guidance_beacon_left
+565 170 576 195 Guidance_beacon_left
+584 172 593 195 Guidance_beacon_left
+595 170 604 193 Guidance_beacon_left
+865 131 886 162 Traffic_lights

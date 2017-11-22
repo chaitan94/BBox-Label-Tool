@@ -1,0 +1,4 @@
+1073 166 1164 325 Pedestrian
+685 173 701 209 Cyclist
+673 172 686 197 Cyclist
+763 1 786 226 Lamppost

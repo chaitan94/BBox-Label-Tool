@@ -1,0 +1,4 @@
+409 170 657 296 Car
+792 180 1243 374 Car
+610 1 622 180 Lamppost
+609 135 626 158 End_zone_forbidden_to_park

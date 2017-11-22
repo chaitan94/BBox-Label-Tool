@@ -1,0 +1,8 @@
+750 148 817 308 Pedestrian
+687 148 718 240 Pedestrian
+624 145 664 243 Pedestrian
+560 129 608 250 Pedestrian
+502 150 519 183 Pedestrian
+476 145 502 185 Pedestrian
+410 140 434 191 Pedestrian
+0 86 269 373 Truck

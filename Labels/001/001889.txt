@@ -1,0 +1,7 @@
+609 1 620 208 Lamppost
+1195 3 1212 250 Lamppost
+107 3 123 225 Lamppost
+721 174 780 201 Car
+646 169 677 192 Car
+487 163 517 195 Car
+909 180 930 217 Guidance_beacon_right

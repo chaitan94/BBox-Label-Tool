@@ -1,0 +1,15 @@
+623 176 652 220 Pedestrian
+440 142 697 205 Tram
+873 11 896 267 Lamppost
+3 25 82 233 Window
+144 61 241 232 Window
+355 5 400 64 Window
+783 194 815 234 Person_sitting
+744 200 780 255 Person_sitting
+724 195 752 248 Person_sitting
+860 207 887 257 Person_sitting
+906 214 969 271 Person_sitting
+537 48 565 91 Window
+577 50 612 99 Window
+638 3 677 85 Window
+1054 111 1145 194 Window

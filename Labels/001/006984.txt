@@ -1,0 +1,11 @@
+530 170 736 374 Car
+957 170 1092 224 Car
+381 182 410 205 Car
+426 180 466 205 Car
+333 187 373 205 Car
+725 47 767 85 Priority_road
+952 134 999 174 Give_way_sign
+922 79 956 140 Traffic_lights
+726 90 761 151 Traffic_lights
+799 138 819 163 Traffic_lights
+2 94 162 275 Truck

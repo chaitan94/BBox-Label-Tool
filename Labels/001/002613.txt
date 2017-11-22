@@ -1,0 +1,6 @@
+239 193 283 276 Pedestrian
+392 186 440 256 Pedestrian
+237 136 731 210 Person_sitting
+739 164 779 197 Commandment_to_follow_sign_arrow_D05-R
+96 45 197 290 Window
+973 3 1099 243 Window

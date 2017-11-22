@@ -1,0 +1,5 @@
+191 27 249 81 Give_way_sign
+227 82 285 136 Warning_for_bad_pavement
+429 148 442 162 Give_way_sign
+813 148 834 166 Give_way_sign
+828 91 863 128 Give_way_sign

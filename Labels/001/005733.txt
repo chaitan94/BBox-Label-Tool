@@ -1,0 +1,8 @@
+387 177 632 267 Car
+2 186 270 338 Car
+910 2 954 373 Lamppost
+847 252 868 313 Pole
+590 121 602 212 Pole
+55 143 75 204 Pole
+988 82 1017 112 Closed_both_directions
+335 174 360 239 Pedestrian

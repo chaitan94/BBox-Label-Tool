@@ -1,0 +1,7 @@
+264 211 334 362 Person_sitting
+190 229 270 363 Person_sitting
+97 237 203 378 Person_sitting
+3 256 172 377 Person_sitting
+781 192 808 240 Person_sitting
+758 28 810 280 Pole
+461 134 645 218 Tram

@@ -1,0 +1,6 @@
+808 156 843 229 Pedestrian
+830 152 864 231 Pedestrian
+1076 147 1222 237 Car
+305 160 387 231 Car
+367 161 403 205 Car
+904 178 941 218 Deflective_priority_road_OB702-2

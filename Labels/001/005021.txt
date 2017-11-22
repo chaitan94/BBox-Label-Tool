@@ -1,0 +1,4 @@
+515 176 566 213 Car
+558 175 584 198 Car
+667 72 721 130 Warning_for_children
+746 166 765 200 Cyclist

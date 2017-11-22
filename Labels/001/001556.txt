@@ -1,0 +1,9 @@
+563 171 618 212 Car
+187 164 260 202 Car
+283 168 322 197 Car
+654 183 663 204 Pole
+1 186 15 217 Guidance_beacon_left
+441 169 459 183 Car
+473 168 489 179 Car
+354 174 363 190 Guidance_beacon_left
+386 174 396 186 Guidance_beacon_left

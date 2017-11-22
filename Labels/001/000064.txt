@@ -1,0 +1,15 @@
+815 58 1111 259 Truck
+722 187 880 272 Car
+655 180 708 224 Car
+719 175 757 206 Car
+624 176 650 197 Car
+797 148 816 167 Give_way_sign
+1128 184 1152 215 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+315 3 361 98 Traffic_lights
+149 185 172 211 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+278 140 299 162 Priority_crossing_point
+284 181 297 209 Guidance_beacon
+605 182 622 200 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+610 10 620 210 Lamppost
+112 2 126 226 Lamppost
+1199 2 1211 241 Lamppost

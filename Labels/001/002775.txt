@@ -1,0 +1,14 @@
+672 176 716 263 Pedestrian
+636 173 674 255 Pedestrian
+601 166 640 232 Pedestrian
+422 177 472 244 Pedestrian
+409 178 436 232 Pedestrian
+536 176 574 214 Car
+371 220 420 251 Dog
+666 111 701 177 Lamppost
+285 113 346 248 Door
+59 264 214 375 Person_sitting
+131 234 214 324 Person_sitting
+176 218 246 293 Person_sitting
+742 177 772 231 Pedestrian
+707 170 745 244 Pedestrian

@@ -1,0 +1,5 @@
+533 101 548 118 Traffic_lights
+602 107 608 124 Traffic_lights
+549 103 558 122 Traffic_lights
+340 179 387 202 Car
+527 162 568 192 Tram

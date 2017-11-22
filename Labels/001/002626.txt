@@ -1,0 +1,13 @@
+509 32 518 194 Lamppost
+129 71 175 143 Traffic_lights
+985 41 1017 113 Traffic_lights
+364 172 398 282 Pedestrian
+404 167 440 275 Pedestrian
+952 150 986 299 Pedestrian
+988 148 1057 303 Pedestrian
+653 164 711 195 Car
+451 173 484 200 Car
+544 174 557 197 Guidance_beacon_right
+563 177 577 195 Guidance_beacon_right
+583 174 595 192 Guidance_beacon_right
+516 175 533 200 Guidance_beacon_right

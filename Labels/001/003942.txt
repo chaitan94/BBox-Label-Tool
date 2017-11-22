@@ -1,0 +1,4 @@
+1079 54 1108 125 Traffic_lights
+281 94 307 140 Traffic_lights
+1054 5 1109 48 Priority_road
+741 175 784 209 Car

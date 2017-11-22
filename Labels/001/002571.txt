@@ -1,0 +1,4 @@
+334 177 369 261 Pedestrian
+365 167 506 225 Car
+669 163 797 211 Van
+336 106 361 148 Traffic_lights

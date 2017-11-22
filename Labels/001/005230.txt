@@ -1,0 +1,4 @@
+487 198 511 240 Guidance_beacon_left
+663 189 687 230 Right_of_way_road_markings
+144 1 173 264 Lamppost
+410 145 426 196 Lamppost

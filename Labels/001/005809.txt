@@ -1,0 +1,4 @@
+138 169 445 366 Car
+717 196 740 271 Pole
+422 188 635 375 Continious_lane
+651 208 793 375 Continious_lane

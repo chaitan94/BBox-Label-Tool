@@ -1,0 +1,6 @@
+476 169 505 236 Cyclist
+418 97 436 241 Lamppost
+497 134 509 199 Lamppost
+523 162 534 193 Lamppost
+629 162 663 244 Cyclist
+702 162 735 234 Pedestrian

@@ -1,0 +1,4 @@
+582 174 642 211 Car
+460 156 508 195 Car
+523 153 580 198 Tram
+887 46 924 103 Obligated_bicycle_path

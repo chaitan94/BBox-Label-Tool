@@ -1,0 +1,17 @@
+928 137 1209 283 Van
+722 170 777 213 Car
+797 175 864 207 Car
+652 179 688 209 Car
+630 174 657 194 Car
+640 149 683 188 Truck
+517 164 538 184 Truck
+144 184 167 209 Deflective_priority_road_OB701-2
+603 177 621 202 Deflective_priority_road_OB701-2
+796 151 820 167 Give_way_sign
+609 10 623 209 Lamppost
+113 1 126 225 Lamppost
+1199 3 1212 267 Lamppost
+378 18 405 304 Lamppost
+331 108 364 353 Pole
+281 141 299 165 Priority_crossing_point
+283 183 296 204 Guidance_beacon_right

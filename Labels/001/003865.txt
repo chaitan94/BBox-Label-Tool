@@ -1,0 +1,10 @@
+113 6 119 223 Lamppost
+612 6 618 206 Lamppost
+1200 4 1212 168 Lamppost
+340 108 358 346 Lamppost
+312 3 374 102 Traffic_lights
+147 187 165 208 One_way_road_right
+859 163 1239 372 Car
+683 178 755 225 Car
+634 171 680 211 Car
+732 101 901 209 Truck

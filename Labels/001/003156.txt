@@ -1,0 +1,10 @@
+541 170 572 191 Car
+592 164 616 189 Cyclist
+607 165 621 186 Pedestrian
+469 170 482 193 Pedestrian
+453 171 467 190 Pedestrian
+504 167 515 189 Pedestrian
+416 170 437 201 Cyclist
+512 19 531 181 Lamppost
+659 139 668 156 Traffic_lights
+521 147 530 162 Traffic_lights

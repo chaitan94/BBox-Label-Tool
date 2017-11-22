@@ -1,0 +1,6 @@
+567 169 620 229 Car
+892 148 968 187 Car
+786 165 806 185 Car
+961 3 999 293 Lamppost
+646 192 893 374 Continious_lane
+323 221 547 373 Continious_lane

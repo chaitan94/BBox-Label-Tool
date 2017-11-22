@@ -1,0 +1,5 @@
+660 63 666 262 Lamppost
+475 65 651 236 Window
+669 67 768 236 Window
+959 62 1096 110 Window
+1081 145 1167 320 Pedestrian

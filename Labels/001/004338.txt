@@ -1,0 +1,12 @@
+362 163 493 269 Car
+554 1 574 38 Traffic_lights
+782 106 805 137 Traffic_lights
+373 114 390 157 Traffic_lights
+551 162 583 226 Pedestrian
+275 181 302 235 Pedestrian
+251 170 276 238 Pedestrian
+204 181 226 239 Pedestrian
+218 178 238 234 Pedestrian
+761 158 797 200 Cyclist
+946 148 1005 202 Cyclist
+1022 128 1116 212 Cyclist

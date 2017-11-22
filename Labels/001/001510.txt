@@ -1,0 +1,10 @@
+720 185 821 255 Car
+875 184 1036 264 Car
+667 179 727 221 Car
+630 176 660 195 Car
+667 145 737 191 Truck
+797 150 818 165 Give_way_sign
+1125 180 1152 217 One_way_road_right
+145 189 169 211 One_way_road_left
+313 2 368 104 Traffic_lights
+603 178 623 199 One_way_road_right

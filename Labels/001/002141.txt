@@ -1,0 +1,17 @@
+682 2 702 29 Traffic_lights
+825 1 843 22 Traffic_lights
+966 109 989 151 Traffic_lights
+482 125 500 149 Traffic_lights
+792 170 867 225 Car
+0 179 259 372 Car
+959 73 989 105 Priority_road
+320 115 355 184 Window
+356 118 391 195 Window
+357 18 393 88 Window
+414 44 441 100 Window
+443 49 466 107 Window
+416 130 439 185 Window
+440 121 465 189 Window
+225 93 287 184 Window
+95 86 181 189 Window
+596 47 611 63 Window

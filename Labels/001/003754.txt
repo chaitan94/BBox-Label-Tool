@@ -1,0 +1,5 @@
+465 178 535 234 Car
+553 176 582 201 Car
+606 180 776 373 Continious_lane
+112 250 434 373 Continious_lane
+393 245 548 372 Continious_lane

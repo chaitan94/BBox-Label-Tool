@@ -1,0 +1,16 @@
+570 166 617 196 Car
+533 164 573 194 Car
+755 1 771 202 Lamppost
+711 178 743 253 Guidance_beacon_left
+672 173 697 224 Guidance_beacon_left
+639 169 656 199 Guidance_beacon_left
+653 168 668 195 Guidance_beacon_left
+127 181 160 244 Guidance_beacon_right
+226 169 268 227 Guidance_beacon_right
+282 168 308 213 Guidance_beacon_right
+328 158 342 209 Guidance_beacon_right
+334 174 368 252 Guidance_beacon_right
+381 164 405 223 Guidance_beacon_right
+415 165 438 210 Guidance_beacon_right
+458 160 486 205 Guidance_beacon_right
+198 6 227 212 Pole

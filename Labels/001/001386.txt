@@ -1,0 +1,15 @@
+143 183 344 265 Car
+1100 160 1242 283 Car
+606 180 622 199 Deflective_priority_road_OB701-2
+151 188 169 206 Deflective_priority_road_OB701-2
+315 1 365 98 Traffic_lights
+798 152 815 168 Give_way_sign
+610 7 619 204 Lamppost
+592 83 602 190 Lamppost
+384 23 405 303 Lamppost
+337 99 359 348 Lamppost
+1202 3 1216 165 Lamppost
+113 4 124 231 Lamppost
+82 87 101 197 Lamppost
+252 124 265 184 Lamppost
+282 140 300 163 Priority_crossing_point

@@ -1,0 +1,4 @@
+579 174 641 224 Car
+483 177 547 222 Car
+539 175 571 207 Car
+638 148 662 171 Warning_for_electric_and_extandable_pole_in_road_track

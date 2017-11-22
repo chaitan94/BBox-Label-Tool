@@ -1,0 +1,3 @@
+474 179 515 203 Car
+583 178 603 195 Car
+275 189 293 231 Guidance_beacon_left

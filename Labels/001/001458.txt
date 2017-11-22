@@ -1,0 +1,12 @@
+1 174 342 377 Car
+316 186 442 305 Car
+435 162 515 242 Car
+504 170 546 210 Car
+640 182 786 269 Car
+741 181 948 335 Car
+838 205 1239 376 Car
+603 151 623 167 Pedestrian_crossing
+581 121 600 137 Pedestrian_crossing
+546 124 564 144 Pedestrian_crossing
+523 152 545 170 Pedestrian_crossing
+624 181 672 220 Car
