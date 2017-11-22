@@ -1,0 +1,6 @@
+570 152 619 308 Pedestrian
+482 72 530 219 Window
+538 71 587 219 Window
+594 70 642 221 Window
+648 70 706 221 Window
+707 70 763 218 Window

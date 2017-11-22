@@ -1,0 +1,4 @@
+579 182 639 235 Car
+684 224 890 378 Continious_lane
+705 2 1243 294 Tram
+428 241 544 329 Continious_lane

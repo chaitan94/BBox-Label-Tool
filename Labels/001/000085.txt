@@ -1,0 +1,8 @@
+307 183 351 304 Pedestrian
+675 169 704 241 Cyclist
+2 73 228 358 Van
+347 4 389 51 Window
+461 16 468 58 Window
+475 22 482 69 Window
+487 37 496 78 Window
+739 132 762 151 Priority_crossing_point

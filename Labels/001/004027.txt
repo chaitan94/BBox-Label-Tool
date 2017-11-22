@@ -1,0 +1,11 @@
+505 2 525 38 Window
+672 167 703 234 Pedestrian
+648 169 670 235 Pedestrian
+450 168 482 235 Pedestrian
+537 171 550 206 Pedestrian
+610 163 632 207 Cyclist
+556 166 582 204 Cyclist
+711 169 738 218 Pedestrian
+954 193 1017 247 Person_sitting
+1153 239 1238 375 Person_sitting
+756 36 790 193 Lamppost

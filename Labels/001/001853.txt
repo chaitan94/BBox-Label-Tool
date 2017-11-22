@@ -1,0 +1,8 @@
+761 193 834 373 Pedestrian
+748 158 768 197 Pedestrian
+734 165 753 196 Pedestrian
+913 187 927 230 Guidance_beacon_right
+1021 181 1035 205 Guidance_beacon_right
+1127 180 1137 206 Guidance_beacon_right
+1141 89 1165 112 Commandment_to_follow_sign_arrow_D04
+996 181 1173 271 Car

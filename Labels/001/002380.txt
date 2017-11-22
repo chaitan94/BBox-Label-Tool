@@ -1,0 +1,7 @@
+818 169 1075 269 Pedestrian
+660 146 741 234 Pedestrian
+3 141 309 292 Pedestrian
+172 182 335 269 Pedestrian
+312 180 456 238 Pedestrian
+416 171 505 225 Pedestrian
+1088 191 1241 375 Pedestrian

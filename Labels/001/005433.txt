@@ -1,0 +1,12 @@
+586 153 709 372 Pedestrian
+676 152 764 371 Pedestrian
+313 140 372 323 Pedestrian
+248 132 318 331 Pedestrian
+507 145 531 209 Pedestrian
+539 146 561 198 Pedestrian
+570 147 589 197 Pedestrian
+489 144 505 184 Pedestrian
+463 142 489 193 Cyclist
+3 100 262 371 Car
+580 40 599 94 Window
+527 36 547 91 Window

@@ -1,0 +1,7 @@
+544 172 716 319 Car
+90 185 247 253 Car
+490 169 511 184 Car
+606 91 616 105 Traffic_lights
+595 89 601 105 Traffic_lights
+586 91 594 105 Traffic_lights
+651 140 662 157 Traffic_lights

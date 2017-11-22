@@ -1,0 +1,17 @@
+990 43 1011 107 Traffic_lights
+139 71 165 133 Traffic_lights
+881 154 907 195 Cyclist
+1000 158 1024 219 Cyclist
+442 171 511 212 Car
+374 172 413 196 Car
+0 226 288 370 Car
+519 174 527 195 Guidance_beacon_right
+545 172 551 195 Guidance_beacon_right
+567 173 573 192 Guidance_beacon_right
+588 172 592 190 Guidance_beacon_right
+596 170 602 188 Guidance_beacon_right
+1064 179 1074 218 Pole
+1113 179 1122 221 Pole
+1172 180 1182 224 Pole
+1184 176 1194 216 Pole
+292 182 303 251 Pole

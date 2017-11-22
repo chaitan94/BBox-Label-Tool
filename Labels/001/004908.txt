@@ -1,0 +1,10 @@
+827 4 851 228 Lamppost
+743 165 762 205 Cyclist
+305 186 424 261 Car
+690 184 702 224 Guidance_beacon_left
+657 170 667 209 Guidance_beacon_left
+644 171 651 201 Guidance_beacon_left
+633 169 638 193 Guidance_beacon_left
+265 189 276 227 Guidance_beacon_left
+194 216 209 265 Guidance_beacon_right
+1198 4 1218 221 Lamppost

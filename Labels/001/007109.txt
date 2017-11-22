@@ -1,0 +1,15 @@
+1056 134 1201 375 Pedestrian
+653 160 675 236 Pedestrian
+680 164 699 225 Pedestrian
+492 161 519 270 Pedestrian
+458 167 492 274 Pedestrian
+593 163 618 238 Pedestrian
+708 159 733 211 Pedestrian
+82 231 168 359 Person_sitting
+6 233 63 301 Person_sitting
+61 218 113 271 Person_sitting
+301 218 377 331 Person_sitting
+220 225 295 347 Person_sitting
+415 197 453 264 Person_sitting
+395 191 417 231 Person_sitting
+552 168 584 197 Car

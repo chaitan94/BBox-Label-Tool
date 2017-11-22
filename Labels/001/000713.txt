@@ -1,0 +1,15 @@
+124 91 156 124 Warning_for_pedestrians
+760 134 782 154 Give_way_sign
+134 121 160 146 Give_way_sign
+937 20 962 51 Sidewalk
+935 50 964 74 Obligated_bicycle_path
+872 164 904 234 Pedestrian
+439 172 518 206 Car
+577 174 628 199 Car
+365 167 450 201 Car
+639 172 668 192 Car
+679 170 702 188 Car
+777 172 809 188 Car
+213 178 339 220 Car
+541 3 547 176 Lamppost
+313 6 337 176 Lamppost

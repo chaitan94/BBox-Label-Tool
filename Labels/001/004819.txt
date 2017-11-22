@@ -1,0 +1,13 @@
+1066 141 1241 322 Car
+740 172 807 215 Car
+802 173 870 208 Car
+656 173 701 214 Car
+636 167 675 206 Car
+642 146 689 186 Car
+799 150 814 167 Give_way_sign
+604 179 624 200 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+147 184 168 209 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+317 0 362 96 Traffic_lights
+910 181 924 214 Guidance_beacon_left
+522 166 538 181 Car
+373 1 412 307 Lamppost

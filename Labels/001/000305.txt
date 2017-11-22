@@ -1,0 +1,12 @@
+303 181 437 228 Car
+553 168 590 203 Car
+584 166 604 186 Car
+608 168 632 188 Car
+2 189 113 238 Car
+956 18 1003 73 Priority_road
+674 177 683 203 Guidance_beacon_left
+651 176 656 196 Guidance_beacon_left
+641 173 646 193 Guidance_beacon_left
+212 221 223 245 Guidance_beacon_right
+112 243 120 278 Guidance_beacon_right
+865 1 894 83 Traffic_lights

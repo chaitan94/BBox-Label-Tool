@@ -1,0 +1,7 @@
+652 50 667 79 Traffic_lights
+414 125 425 160 Traffic_lights
+124 189 155 241 Pedestrian
+179 181 235 234 Cyclist
+92 189 120 223 Cyclist
+588 172 628 206 Car
+559 168 576 188 Car

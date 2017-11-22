@@ -1,0 +1,10 @@
+1031 155 1164 375 Pedestrian
+972 171 1050 374 Pedestrian
+880 162 939 313 Pedestrian
+846 177 898 336 Pedestrian
+795 168 859 368 Pedestrian
+678 178 738 322 Pedestrian
+754 165 796 286 Pedestrian
+496 162 561 266 Pedestrian
+612 164 630 195 Cyclist
+526 173 606 233 Car

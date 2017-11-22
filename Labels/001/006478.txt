@@ -1,0 +1,14 @@
+1 209 463 373 Car
+591 133 686 242 Van
+731 169 782 274 Pedestrian
+432 173 452 229 Pedestrian
+399 181 421 210 Pedestrian
+369 170 388 202 Pedestrian
+465 180 486 212 Pedestrian
+506 174 521 213 Pedestrian
+522 174 536 205 Pedestrian
+541 175 550 201 Pedestrian
+550 175 558 200 Pedestrian
+559 176 570 204 Pedestrian
+574 173 588 202 Pedestrian
+633 53 662 268 Lamppost

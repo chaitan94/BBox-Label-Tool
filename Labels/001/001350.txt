@@ -1,0 +1,14 @@
+583 168 606 189 Car
+557 167 579 185 Car
+305 164 319 219 Guidance_beacon_right
+397 166 406 200 Guidance_beacon_right
+430 164 438 192 Guidance_beacon_right
+442 164 448 188 Guidance_beacon_right
+452 164 457 184 Guidance_beacon_right
+459 164 463 184 Guidance_beacon_right
+466 164 471 182 Guidance_beacon_right
+516 165 522 188 Guidance_beacon_right
+62 169 87 256 Guidance_beacon_right
+638 173 644 193 Guidance_beacon_left
+631 171 636 189 Guidance_beacon_left
+623 170 627 183 Guidance_beacon_left

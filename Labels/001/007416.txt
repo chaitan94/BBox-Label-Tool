@@ -1,0 +1,5 @@
+357 172 373 199 Pedestrian
+551 172 713 312 Car
+596 89 602 107 Traffic_lights
+605 90 615 107 Traffic_lights
+652 138 664 160 Traffic_lights

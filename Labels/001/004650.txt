@@ -1,0 +1,5 @@
+540 156 610 230 Pedestrian
+669 190 777 244 Pedestrian
+443 146 484 195 Pedestrian
+107 97 137 274 Lamppost
+878 25 918 291 Lamppost

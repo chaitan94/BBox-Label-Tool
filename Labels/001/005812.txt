@@ -1,0 +1,14 @@
+492 180 523 238 Pedestrian
+1022 230 1112 325 Person_sitting
+956 237 1046 338 Person_sitting
+938 219 1003 273 Person_sitting
+861 235 936 361 Person_sitting
+330 134 724 218 Tram
+901 51 945 209 Window
+119 61 173 290 Door
+263 94 294 200 Window
+566 27 590 71 Window
+512 28 539 71 Window
+459 25 485 70 Window
+398 20 428 69 Window
+339 24 366 67 Window

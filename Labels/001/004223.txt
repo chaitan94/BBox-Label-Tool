@@ -1,0 +1,12 @@
+485 201 558 374 Pedestrian
+1000 183 1175 274 Car
+1141 88 1165 114 Commandment_to_follow_sign_arrow_D04
+913 183 926 235 Guidance_beacon_right
+1125 180 1140 207 Guidance_beacon_right
+1020 181 1033 203 Guidance_beacon_right
+549 103 581 164 Window
+470 100 507 163 Window
+384 104 422 167 Window
+287 101 332 168 Window
+184 97 232 165 Window
+69 95 121 168 Window

@@ -1,0 +1,15 @@
+542 176 564 194 Car
+581 173 598 190 Car
+438 183 508 201 Car
+11 243 96 333 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+337 275 359 327 Guidance_beacon_right
+1088 38 1143 81 Window
+942 47 962 94 Window
+936 115 954 151 Window
+907 56 917 104 Window
+899 117 915 150 Window
+867 123 888 157 Window
+872 73 884 111 Window
+196 101 211 130 Window
+110 99 123 118 Window
+327 134 343 149 Window

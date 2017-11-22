@@ -1,0 +1,15 @@
+909 159 965 296 Pedestrian
+862 157 906 295 Pedestrian
+330 174 390 319 Pedestrian
+401 182 445 273 Pedestrian
+449 176 463 225 Pedestrian
+142 167 231 376 Pedestrian
+588 176 602 219 Pedestrian
+604 173 617 198 Pedestrian
+514 180 524 205 Pedestrian
+503 179 513 204 Pedestrian
+463 175 477 206 Pedestrian
+790 230 805 339 Pole
+704 213 714 277 Pole
+658 202 667 251 Pole
+606 193 613 223 Pole

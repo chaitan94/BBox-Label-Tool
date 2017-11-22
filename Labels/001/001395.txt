@@ -1,0 +1,5 @@
+534 176 575 205 Car
+675 163 692 182 Car
+523 176 533 194 Cyclist
+534 172 544 187 Cyclist
+779 58 829 98 Warning_for_traffic_lights

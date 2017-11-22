@@ -1,0 +1,14 @@
+580 178 624 220 Car
+605 164 631 196 Car
+520 179 560 212 Car
+378 178 416 205 Car
+459 176 478 196 Car
+488 170 506 188 Car
+693 175 724 190 Car
+109 177 137 298 Guidance_beacon_left
+276 177 290 257 Guidance_beacon_left
+368 178 379 240 Guidance_beacon_left
+411 175 423 224 Guidance_beacon_left
+454 176 464 216 Guidance_beacon_left
+741 2 748 215 Lamppost
+221 2 239 204 Lamppost

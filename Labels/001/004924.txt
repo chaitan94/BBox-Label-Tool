@@ -1,0 +1,17 @@
+675 160 715 286 Pedestrian
+610 168 659 292 Pedestrian
+553 141 580 232 Pedestrian
+538 143 556 228 Pedestrian
+510 143 540 234 Pedestrian
+487 137 510 235 Pedestrian
+285 142 316 210 Pedestrian
+450 146 468 203 Pedestrian
+468 147 484 203 Pedestrian
+419 144 438 195 Pedestrian
+379 146 397 186 Pedestrian
+361 144 379 186 Pedestrian
+320 154 337 189 Pedestrian
+591 142 610 195 Pedestrian
+644 141 664 202 Pedestrian
+662 148 688 229 Pedestrian
+608 83 621 140 Lamppost

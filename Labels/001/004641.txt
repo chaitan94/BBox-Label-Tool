@@ -1,0 +1,8 @@
+292 208 309 251 Guidance_beacon_right
+408 193 419 220 Guidance_beacon_right
+452 185 459 203 Guidance_beacon_right
+721 189 733 237 Guidance_beacon_left
+660 182 669 203 Guidance_beacon_left
+646 175 653 199 Guidance_beacon_left
+509 176 534 200 Car
+4 227 144 245 Scare_fence

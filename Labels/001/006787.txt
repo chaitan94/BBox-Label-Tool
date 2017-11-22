@@ -1,0 +1,6 @@
+403 208 541 296 Car
+716 176 762 211 Car
+758 176 790 202 Car
+787 137 809 164 Forbidden_to_stand_still
+374 81 406 243 Lamppost
+68 209 401 374 Car

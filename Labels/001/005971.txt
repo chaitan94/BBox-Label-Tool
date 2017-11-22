@@ -1,0 +1,8 @@
+570 181 646 258 Car
+149 201 274 257 Car
+254 199 302 234 Car
+328 192 379 219 Car
+61 207 168 251 Car
+1126 203 1148 249 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+1028 201 1038 231 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+435 192 448 207 Commandment_to_pass_sign_on_arrow_indication_D02-RO

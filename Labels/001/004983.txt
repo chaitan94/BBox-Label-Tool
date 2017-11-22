@@ -1,0 +1,17 @@
+699 176 731 272 Pedestrian
+729 167 756 247 Pedestrian
+779 167 809 236 Pedestrian
+763 162 785 230 Pedestrian
+443 172 464 249 Pedestrian
+406 175 425 238 Pedestrian
+87 181 125 242 Pedestrian
+629 171 646 234 Pedestrian
+662 170 693 271 Pedestrian
+382 220 425 255 Dog
+139 227 196 291 Person_sitting
+86 236 132 286 Person_sitting
+35 258 130 323 Person_sitting
+5 272 137 375 Person_sitting
+549 177 592 210 Car
+167 3 206 33 Window
+87 3 121 41 Window

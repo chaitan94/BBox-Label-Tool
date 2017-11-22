@@ -1,0 +1,6 @@
+976 151 1029 309 Pedestrian
+484 71 527 216 Window
+534 71 590 216 Window
+594 71 645 216 Window
+651 71 704 216 Window
+710 70 765 220 Window

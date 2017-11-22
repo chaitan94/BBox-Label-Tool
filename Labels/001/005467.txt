@@ -1,0 +1,11 @@
+395 174 536 267 Car
+528 174 563 245 Car
+1074 151 1211 378 Pedestrian
+840 171 924 362 Pedestrian
+556 181 592 254 Pedestrian
+2 185 42 374 Pedestrian
+613 182 647 250 Pedestrian
+726 178 746 216 Pedestrian
+922 199 960 244 Person_sitting
+810 194 838 227 Person_sitting
+746 55 781 288 Lamppost

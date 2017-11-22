@@ -1,0 +1,7 @@
+1026 150 1167 373 Pedestrian
+816 159 902 335 Pedestrian
+609 177 649 241 Pedestrian
+533 174 563 245 Pedestrian
+89 179 185 375 Pedestrian
+378 167 514 263 Car
+708 57 738 276 Lamppost

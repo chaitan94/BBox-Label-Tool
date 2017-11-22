@@ -1,0 +1,12 @@
+892 149 949 298 Pedestrian
+769 147 811 233 Pedestrian
+576 169 618 274 Pedestrian
+435 163 478 275 Pedestrian
+222 168 275 297 Pedestrian
+528 170 548 220 Pedestrian
+556 170 573 223 Pedestrian
+497 176 531 259 Cyclist
+362 194 392 229 Person_sitting
+328 199 353 245 Person_sitting
+402 192 431 219 Person_sitting
+752 14 792 54 Forbidden_to_park

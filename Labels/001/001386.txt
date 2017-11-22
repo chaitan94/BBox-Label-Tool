@@ -1,0 +1,8 @@
+802 150 815 166 Give_way_sign
+283 141 296 157 End_priority_road
+912 184 921 208 Guidance_beacon_left
+152 188 167 208 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+156 183 333 259 Car
+1100 172 1241 282 Car
+319 1 358 94 Traffic_lights
+608 180 621 197 Commandment_to_pass_sign_on_arrow_indication_D02-RO

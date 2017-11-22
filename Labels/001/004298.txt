@@ -1,0 +1,13 @@
+540 170 576 202 Car
+296 171 438 229 Car
+597 170 627 192 Car
+579 168 603 190 Car
+952 15 1008 76 Priority_road
+109 242 127 277 Guidance_beacon_right
+207 219 227 250 Guidance_beacon_right
+670 166 687 213 Guidance_beacon_left
+647 172 660 199 Guidance_beacon_left
+638 172 648 195 Guidance_beacon_left
+860 2 900 90 Traffic_lights
+484 174 492 190 Guidance_beacon_right
+501 174 510 190 Guidance_beacon_right

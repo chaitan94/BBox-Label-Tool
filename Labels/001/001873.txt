@@ -1,0 +1,11 @@
+233 145 280 255 Door
+714 181 743 241 Pedestrian
+631 174 644 211 Pedestrian
+644 175 657 202 Pedestrian
+687 175 696 196 Pedestrian
+677 175 686 195 Pedestrian
+698 175 708 192 Pedestrian
+744 174 755 205 Pedestrian
+757 173 769 206 Pedestrian
+766 176 805 238 Pedestrian
+106 56 149 109 Forbidden_to_stand_still

@@ -1,0 +1,12 @@
+569 181 655 261 Car
+241 192 342 238 Car
+356 189 404 218 Car
+859 12 885 63 Traffic_lights
+975 115 1004 160 Traffic_lights
+987 90 1020 155 Traffic_lights
+951 119 978 158 Traffic_lights
+821 130 835 164 Traffic_lights
+167 198 259 240 Car
+1 206 94 274 Car
+451 187 469 206 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+1017 199 1034 237 Commandment_to_pass_sign_on_arrow_indication_D02-RO

@@ -1,0 +1,4 @@
+543 175 581 203 Car
+672 163 695 185 Car
+528 174 541 198 Pedestrian
+763 69 807 107 Warning_for_traffic_lights

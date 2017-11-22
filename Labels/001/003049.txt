@@ -1,0 +1,12 @@
+259 188 406 233 Car
+642 28 686 205 Lamppost
+299 6 320 248 Lamppost
+99 79 121 105 Window
+63 81 83 99 Window
+35 83 47 100 Window
+35 123 46 140 Window
+65 123 88 142 Window
+103 122 123 143 Window
+103 162 126 183 Window
+69 166 87 181 Window
+39 168 50 181 Window

@@ -1,0 +1,4 @@
+355 166 443 327 Pedestrian
+480 68 589 219 Window
+589 66 706 219 Window
+706 65 817 224 Window

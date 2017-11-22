@@ -1,0 +1,8 @@
+796 167 1080 336 Car
+669 176 729 219 Car
+730 114 860 221 Car
+633 175 668 206 Car
+314 0 369 97 Traffic_lights
+1124 186 1152 215 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+606 180 619 197 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+148 185 169 207 Commandment_to_pass_sign_on_arrow_indication_D02-RO

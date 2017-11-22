@@ -1,0 +1,13 @@
+576 170 605 195 Car
+550 168 573 193 Car
+167 171 203 256 Guidance_beacon_right
+335 171 355 223 Guidance_beacon_right
+393 170 406 207 Guidance_beacon_right
+411 170 420 203 Guidance_beacon_right
+424 170 435 199 Guidance_beacon_right
+436 169 445 197 Guidance_beacon_right
+445 168 453 196 Guidance_beacon_right
+494 168 507 204 Guidance_beacon_right
+640 171 651 205 Guidance_beacon_left
+630 170 640 198 Guidance_beacon_left
+621 168 628 191 Guidance_beacon_left

@@ -1,0 +1,16 @@
+526 180 733 367 Car
+723 165 889 237 Car
+875 166 1017 229 Car
+986 179 1083 215 Car
+376 183 418 204 Car
+426 182 463 202 Car
+47 202 136 233 Car
+336 187 374 207 Car
+512 175 526 185 Car
+728 50 765 85 Priority_road
+498 177 510 191 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+57 207 68 221 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+955 138 997 172 Give_way_sign
+784 202 819 259 Guidance_beacon
+934 85 954 137 Traffic_lights
+735 88 754 137 Traffic_lights

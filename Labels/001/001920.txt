@@ -1,0 +1,7 @@
+1046 1 1239 375 Van
+385 181 421 205 Car
+803 159 827 218 Cyclist
+768 131 787 151 Priority_road
+851 204 875 241 Guidance_beacon
+926 248 1039 282 Bicycle_lane
+666 221 797 317 Continious_lane

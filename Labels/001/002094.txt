@@ -1,0 +1,4 @@
+789 176 809 228 Pedestrian
+677 173 689 201 Cyclist
+2 188 128 251 Car
+715 187 725 202 Guidance_beacon

@@ -1,0 +1,7 @@
+869 162 905 244 Pedestrian
+699 163 719 212 Cyclist
+677 169 691 198 Cyclist
+1086 204 1132 283 Guidance_beacon
+1196 121 1242 146 Window
+1196 61 1242 87 Window
+1196 1 1241 32 Window

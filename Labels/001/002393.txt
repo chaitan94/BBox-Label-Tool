@@ -1,0 +1,12 @@
+891 2 921 372 Lamppost
+977 161 1072 328 Pedestrian
+623 171 646 218 Pedestrian
+671 179 699 226 Pedestrian
+384 172 420 236 Pedestrian
+415 168 446 246 Pedestrian
+518 174 537 237 Pedestrian
+574 178 594 226 Pedestrian
+657 171 671 209 Pedestrian
+598 175 624 216 Pedestrian
+905 79 949 247 Door
+714 101 907 292 Car

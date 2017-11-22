@@ -1,0 +1,14 @@
+575 172 601 195 Car
+547 173 569 189 Car
+254 185 263 227 Guidance_beacon_right
+349 181 359 208 Guidance_beacon_right
+374 178 383 204 Guidance_beacon_right
+398 176 406 199 Guidance_beacon_right
+411 174 418 196 Guidance_beacon_right
+425 175 431 191 Guidance_beacon_right
+479 177 485 203 Guidance_beacon_right
+485 174 489 192 Guidance_beacon_left
+649 181 656 202 Guidance_beacon_left
+638 176 645 195 Guidance_beacon_left
+624 174 631 189 Guidance_beacon_left
+683 172 690 190 Guidance_beacon_left

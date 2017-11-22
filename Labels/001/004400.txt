@@ -1,0 +1,2 @@
+824 142 920 325 Pedestrian
+1031 158 1086 286 Pedestrian
