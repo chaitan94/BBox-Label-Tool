@@ -1,0 +1,4 @@
+660 115 823 237 Truck
+183 188 281 233 Car
+400 179 437 199 Car
+1163 31 1240 102 Warning_for_bikers_and_mopeds

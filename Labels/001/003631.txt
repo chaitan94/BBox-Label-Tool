@@ -1,0 +1,4 @@
+370 119 411 154 Warning_for_children
+208 194 216 221 Guidance_beacon_right
+237 191 278 224 Car
+304 197 312 217 Guidance_beacon_left

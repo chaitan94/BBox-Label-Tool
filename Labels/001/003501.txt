@@ -1,0 +1,7 @@
+568 177 619 223 Car
+362 187 477 260 Car
+6 215 140 343 Car
+771 166 798 187 Car
+634 191 891 371 Continious_lane
+311 267 517 368 Continious_lane
+483 210 560 277 Continious_lane

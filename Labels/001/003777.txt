@@ -1,0 +1,5 @@
+604 175 621 188 Car
+164 181 217 274 Pedestrian
+396 265 551 375 Continious_lane
+557 188 605 225 Continious_lane
+861 145 871 169 Give_way_sign

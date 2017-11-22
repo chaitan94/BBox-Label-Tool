@@ -1,0 +1,9 @@
+4 105 213 378 Van
+306 172 353 300 Pedestrian
+788 1 837 154 Lamppost
+351 120 388 240 Door
+907 90 980 156 Window
+1169 62 1237 321 Door
+525 179 540 211 Person_sitting
+540 178 555 209 Person_sitting
+728 162 766 248 Person_sitting

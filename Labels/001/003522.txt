@@ -1,0 +1,4 @@
+377 190 501 276 Car
+571 179 588 193 Car
+506 204 595 309 Continious_lane
+369 293 501 372 Continious_lane

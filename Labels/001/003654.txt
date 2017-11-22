@@ -1,0 +1,4 @@
+462 184 536 240 Car
+574 174 591 191 Car
+539 200 604 265 Continious_lane
+385 259 534 372 Continious_lane

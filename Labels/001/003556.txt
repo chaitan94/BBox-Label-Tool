@@ -1,0 +1,7 @@
+705 172 737 198 Car
+403 176 465 210 Car
+879 117 904 143 Priority_road
+102 48 127 90 Window
+126 63 147 96 Window
+146 64 170 97 Window
+168 63 197 98 Window

@@ -1,0 +1,10 @@
+706 176 757 197 Car
+800 150 814 168 Give_way_sign
+1127 185 1150 215 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+148 186 166 207 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+313 3 369 100 Traffic_lights
+1048 132 1063 160 Traffic_lights
+605 180 621 198 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+284 140 297 160 Priority_crossing_point
+912 184 924 211 Guidance_beacon_left
+285 183 296 206 Guidance_beacon_left

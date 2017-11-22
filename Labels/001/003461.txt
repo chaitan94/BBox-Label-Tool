@@ -1,0 +1,11 @@
+302 175 420 222 Car
+554 168 584 195 Car
+587 167 610 190 Car
+549 275 720 311 Bicycle_lane
+954 14 1009 70 Priority_road
+862 0 902 80 Traffic_lights
+109 242 121 276 Guidance_beacon_right
+211 219 225 244 Guidance_beacon_right
+674 173 684 203 Guidance_beacon_left
+649 170 658 195 Guidance_beacon_left
+641 172 648 187 Guidance_beacon_left

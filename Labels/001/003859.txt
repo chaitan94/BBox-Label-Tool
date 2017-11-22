@@ -1,0 +1,14 @@
+2 211 360 376 Car
+495 166 562 203 Car
+567 167 601 195 Car
+357 167 413 193 Car
+2 181 101 219 Car
+778 42 809 110 Traffic_lights
+21 63 58 124 Traffic_lights
+838 64 879 103 Priority_road
+1020 134 1185 261 Fence
+670 175 682 200 Guidance_beacon_left
+652 171 657 189 Guidance_beacon_left
+642 170 649 188 Guidance_beacon_left
+413 176 422 203 Guidance_beacon_left
+500 252 740 316 Bicycle_lane

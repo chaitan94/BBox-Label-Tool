@@ -1,0 +1,10 @@
+248 185 360 239 Car
+619 151 700 192 Tram
+931 157 963 212 Cyclist
+777 163 797 191 Cyclist
+577 101 586 116 Traffic_lights
+632 150 640 165 Traffic_lights
+828 131 839 148 Traffic_lights
+423 200 546 252 Continious_lane
+217 110 234 133 Window
+197 108 212 131 Window

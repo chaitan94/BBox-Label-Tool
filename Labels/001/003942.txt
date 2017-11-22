@@ -1,0 +1,9 @@
+1073 55 1112 119 Traffic_lights
+283 91 305 135 Traffic_lights
+1 85 62 191 Window
+60 98 136 193 Window
+194 110 240 196 Window
+241 115 276 187 Window
+1058 7 1103 50 Priority_road
+738 171 786 206 Car
+184 3 283 75 Window

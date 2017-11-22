@@ -1,0 +1,7 @@
+115 164 373 363 Car
+570 175 625 229 Car
+335 184 397 224 Car
+315 178 336 206 Car
+395 73 549 234 Truck
+796 9 944 136 Warning_for_constructions
+387 237 539 378 Continious_lane

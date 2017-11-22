@@ -1,0 +1,6 @@
+381 183 445 220 Car
+479 175 508 197 Car
+581 178 599 191 Car
+560 177 576 189 Car
+326 177 339 222 Guidance_beacon_right
+444 177 453 202 Guidance_beacon_right

@@ -1,0 +1,16 @@
+180 1 260 248 Window
+2 1 111 265 Window
+322 42 376 174 Window
+380 44 407 176 Window
+1097 71 1184 268 Door
+1013 95 1070 244 Door
+744 156 783 271 Pedestrian
+795 155 833 264 Pedestrian
+360 176 417 334 Pedestrian
+307 173 361 333 Pedestrian
+285 168 313 263 Pedestrian
+897 179 922 248 Cyclist
+982 270 1026 377 Pole
+795 223 818 325 Pole
+842 88 893 139 Priority_crossing_point
+479 179 502 198 End_of_property

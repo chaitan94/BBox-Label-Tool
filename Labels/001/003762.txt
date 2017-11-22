@@ -1,0 +1,4 @@
+301 180 339 247 Pedestrian
+367 240 587 371 Continious_lane
+606 172 622 187 Car
+812 148 823 162 Give_way_sign

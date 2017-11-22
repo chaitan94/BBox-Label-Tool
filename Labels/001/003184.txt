@@ -1,0 +1,7 @@
+592 181 670 237 Car
+393 183 446 215 Car
+313 181 366 214 Car
+776 203 795 252 Guidance_beacon_left
+699 197 713 231 Guidance_beacon_left
+933 113 947 136 Window
+952 110 968 133 Window

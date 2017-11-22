@@ -1,0 +1,5 @@
+456 179 484 195 Car
+361 155 441 198 Truck
+469 166 492 184 Truck
+205 65 255 127 Lamppost
+610 180 841 372 Continious_lane

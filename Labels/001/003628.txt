@@ -1,0 +1,11 @@
+486 166 520 194 Car
+1114 160 1223 213 Car
+908 298 928 374 Pole
+838 19 870 107 Traffic_lights
+870 13 962 87 Give_way_sign
+948 157 968 220 Pedestrian
+536 168 570 184 Car
+877 175 890 200 Deflective_priority_road_OB701-2
+211 168 228 191 Deflective_priority_road_OB701-2
+363 139 374 154 Traffic_lights
+975 119 986 145 Traffic_lights

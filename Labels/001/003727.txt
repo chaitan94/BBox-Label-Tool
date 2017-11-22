@@ -1,0 +1,5 @@
+519 180 575 220 Car
+389 241 591 374 Continious_lane
+597 188 651 226 Continious_lane
+474 196 483 226 Pole
+696 186 711 227 Pole

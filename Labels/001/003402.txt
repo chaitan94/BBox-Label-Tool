@@ -1,0 +1,4 @@
+254 180 327 215 Car
+741 173 761 212 Pedestrian
+699 183 714 200 Guidance_beacon
+1022 93 1134 125 Window

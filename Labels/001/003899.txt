@@ -1,0 +1,8 @@
+548 176 717 329 Car
+2 188 196 264 Car
+652 139 665 156 Traffic_lights
+605 89 616 107 Traffic_lights
+593 88 604 107 Traffic_lights
+807 176 1243 249 Fence
+840 210 978 258 Continious_lane
+983 241 1237 306 Continious_lane

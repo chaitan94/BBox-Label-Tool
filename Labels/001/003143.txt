@@ -1,0 +1,11 @@
+723 183 850 259 Car
+797 76 1069 248 Truck
+653 177 706 217 Car
+624 175 646 194 Car
+314 3 361 96 Traffic_lights
+368 0 407 23 Priority_road
+151 188 163 203 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+607 182 619 198 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+1127 186 1147 214 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+283 139 298 161 Priority_crossing_point
+1067 180 1098 216 Car

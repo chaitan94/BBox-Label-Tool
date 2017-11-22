@@ -1,0 +1,4 @@
+654 127 776 227 Truck
+913 98 961 136 Warning_for_bikers_and_mopeds
+363 186 408 211 Car
+451 179 478 196 Car

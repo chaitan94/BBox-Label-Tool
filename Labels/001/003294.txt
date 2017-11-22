@@ -1,0 +1,16 @@
+825 161 874 264 Cyclist
+916 164 944 247 Pedestrian
+897 162 921 238 Pedestrian
+997 202 1050 284 Person_sitting
+533 164 554 205 Cyclist
+553 167 572 201 Cyclist
+323 167 353 231 Pedestrian
+296 185 322 217 Person_sitting
+746 159 764 236 Pedestrian
+4 153 51 333 Pedestrian
+962 11 979 58 Window
+924 38 936 72 Window
+906 43 920 80 Window
+608 105 621 124 Window
+533 107 550 128 Window
+513 107 528 128 Window

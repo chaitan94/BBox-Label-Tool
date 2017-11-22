@@ -1,0 +1,9 @@
+75 169 337 317 Car
+384 127 404 147 End_zone_speed_A02-30
+1035 243 1060 352 Pole
+878 214 890 293 Pole
+423 206 426 230 Pole
+736 195 742 233 Pole
+752 133 774 154 Give_way_sign
+568 176 583 190 One_way_road_right
+3 49 51 170 Window

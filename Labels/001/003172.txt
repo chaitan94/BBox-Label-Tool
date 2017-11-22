@@ -1,0 +1,11 @@
+829 194 1240 377 Car
+0 194 267 339 Car
+467 178 516 207 Car
+344 176 414 205 Car
+677 170 690 204 Pedestrian
+541 152 625 189 Truck
+546 173 607 195 Car
+552 173 568 183 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+711 133 731 147 Give_way_sign
+556 137 565 154 Traffic_lights
+381 153 388 166 Traffic_lights

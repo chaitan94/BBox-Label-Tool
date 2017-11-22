@@ -1,0 +1,9 @@
+569 180 621 223 Car
+510 177 554 207 Car
+352 183 372 204 Commandment_to_pass_sign_on_arrow_indication_D02-RO
+707 129 722 141 Priority_road
+709 144 718 159 Traffic_lights
+572 88 580 104 Traffic_lights
+495 60 560 78 Lamppost
+717 181 724 198 Guidance_beacon_left
+480 175 487 197 Guidance_beacon_left

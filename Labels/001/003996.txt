@@ -1,0 +1,6 @@
+520 136 574 202 Truck
+196 58 468 298 Van
+462 153 542 219 Van
+583 176 624 211 Car
+1 187 198 303 Car
+633 150 657 172 Warning_for_constructions

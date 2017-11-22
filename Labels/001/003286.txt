@@ -1,0 +1,4 @@
+245 183 355 223 Car
+694 174 732 206 Car
+654 100 662 113 Traffic_lights
+1000 88 1039 131 Priority_road

@@ -1,0 +1,5 @@
+551 137 840 213 Truck
+306 179 333 270 Pedestrian
+0 170 150 295 Car
+306 93 329 149 Traffic_lights
+269 190 285 205 One_way_street

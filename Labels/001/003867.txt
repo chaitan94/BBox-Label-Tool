@@ -1,0 +1,6 @@
+275 36 318 278 Lamppost
+3 150 151 366 Fence
+213 169 271 203 Fence
+450 173 501 224 Car
+640 109 654 124 Dead_end
+636 126 658 145 Closed_for_motor_vehicles_on_two_plus_wheels

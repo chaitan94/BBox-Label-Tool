@@ -1,0 +1,6 @@
+13 273 225 364 Continious_lane
+130 198 148 255 Guidance_beacon_right
+398 182 408 207 Guidance_beacon_right
+472 178 479 191 Guidance_beacon_right
+488 178 497 190 Guidance_beacon_right
+421 178 475 214 Car

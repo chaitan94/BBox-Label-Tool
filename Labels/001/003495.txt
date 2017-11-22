@@ -1,0 +1,9 @@
+525 148 570 190 Tram
+586 172 627 208 Car
+245 176 265 208 Cyclist
+482 156 516 185 Truck
+964 203 979 237 Guidance_beacon_right
+1069 195 1134 251 Fence
+1134 198 1218 251 Fence
+1218 198 1243 264 Fence
+782 99 807 126 Obligated_bicycle_path

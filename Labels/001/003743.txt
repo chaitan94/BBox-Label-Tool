@@ -1,0 +1,8 @@
+332 2 343 244 Lamppost
+566 50 582 199 Lamppost
+709 179 727 192 Car
+613 179 633 191 Car
+254 155 273 173 One_way_street
+172 88 194 112 Window
+195 89 211 114 Window
+213 90 230 117 Window

@@ -1,0 +1,6 @@
+303 199 404 253 Car
+483 185 533 227 Car
+567 185 623 232 Car
+633 210 890 374 Continious_lane
+306 266 531 375 Continious_lane
+14 200 80 277 Cyclist

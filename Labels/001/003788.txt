@@ -1,0 +1,14 @@
+307 176 327 231 Guidance_beacon_right
+397 172 412 214 Guidance_beacon_right
+444 172 455 203 Guidance_beacon_right
+462 169 471 195 Guidance_beacon_right
+470 168 477 194 Guidance_beacon_right
+477 167 483 194 Guidance_beacon_right
+483 167 489 189 Guidance_beacon_right
+523 168 531 184 Guidance_beacon_right
+529 169 537 193 Guidance_beacon_right
+631 175 637 192 Guidance_beacon_right
+620 169 626 183 Guidance_beacon_right
+560 169 580 187 Car
+583 172 606 191 Car
+6 271 380 369 Continious_lane

@@ -1,0 +1,12 @@
+3 178 158 244 Car
+333 169 387 206 Car
+524 172 572 209 Car
+589 168 613 193 Car
+860 3 897 83 Traffic_lights
+951 17 1003 78 Priority_road
+1023 149 1198 275 Fence
+569 262 680 325 Bicycle_lane
+112 239 120 281 Guidance_beacon_right
+213 223 223 247 Guidance_beacon_right
+674 177 681 209 Guidance_beacon_left
+649 175 656 199 Guidance_beacon_left

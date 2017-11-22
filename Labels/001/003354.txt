@@ -1,0 +1,4 @@
+462 180 533 235 Car
+576 175 598 190 Car
+536 191 605 247 Continious_lane
+352 256 532 369 Continious_lane

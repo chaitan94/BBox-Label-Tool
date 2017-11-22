@@ -1,0 +1,16 @@
+790 180 823 320 Guidance_beacon_left
+701 171 721 249 Guidance_beacon_left
+650 166 664 210 Guidance_beacon_left
+665 169 678 204 Guidance_beacon_left
+687 167 697 202 Guidance_beacon_left
+209 169 246 286 Guidance_beacon_right
+315 171 338 240 Guidance_beacon_right
+383 168 398 216 Guidance_beacon_right
+451 163 462 202 Guidance_beacon_right
+486 166 496 190 Guidance_beacon_right
+501 168 511 191 Guidance_beacon_right
+111 170 134 246 Guidance_beacon_right
+277 169 288 212 Guidance_beacon_right
+515 164 521 190 Guidance_beacon_right
+579 170 607 196 Car
+542 168 567 194 Car

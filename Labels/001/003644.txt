@@ -1,0 +1,12 @@
+1159 147 1242 337 Pedestrian
+420 175 437 223 Pedestrian
+362 170 384 214 Pedestrian
+614 157 651 187 Van
+643 125 654 140 Window
+592 127 605 142 Window
+578 127 588 143 Window
+89 87 124 116 Window
+2 79 44 115 Window
+3 1 41 38 Window
+84 4 120 44 Window
+888 2 903 65 Window

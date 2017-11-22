@@ -1,0 +1,5 @@
+385 175 553 308 Car
+612 128 698 230 Car
+754 161 808 264 Pedestrian
+648 57 680 249 Lamppost
+579 168 593 197 Pedestrian

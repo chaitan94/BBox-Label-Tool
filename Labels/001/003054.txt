@@ -1,0 +1,6 @@
+885 175 923 262 Pedestrian
+963 268 1242 365 Continious_lane
+679 174 696 206 Cyclist
+736 189 749 210 Guidance_beacon
+1143 26 1241 57 Window
+1166 79 1237 113 Window

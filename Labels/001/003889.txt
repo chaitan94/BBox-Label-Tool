@@ -1,0 +1,5 @@
+58 139 310 215 Truck
+753 177 823 217 Car
+680 79 694 108 Traffic_lights
+808 139 820 165 Traffic_lights
+544 126 557 155 Traffic_lights

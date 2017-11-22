@@ -1,0 +1,6 @@
+1088 130 1113 156 Forbidden_to_stand_still
+1143 87 1176 129 Forbidden_to_stand_still
+469 168 517 203 Car
+68 153 282 245 Van
+3 182 168 295 Car
+651 59 667 197 Lamppost

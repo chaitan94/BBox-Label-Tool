@@ -1,0 +1,12 @@
+748 177 797 192 Arch_right
+244 25 277 115 Traffic_lights
+286 55 333 118 Traffic_lights
+543 161 588 197 Car
+627 167 675 191 Car
+834 165 882 188 Car
+993 160 1051 183 Van
+593 167 608 196 Pedestrian
+214 170 239 209 Pedestrian
+104 171 122 208 Pedestrian
+70 168 88 207 Pedestrian
+11 29 78 88 Priority_road

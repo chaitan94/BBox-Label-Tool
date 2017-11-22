@@ -1,0 +1,8 @@
+51 163 170 369 Pedestrian
+171 157 263 370 Pedestrian
+351 169 389 242 Pedestrian
+589 162 643 218 Van
+290 8 342 287 Lamppost
+483 117 499 197 Lamppost
+522 170 534 199 Cyclist
+872 6 1067 355 Window

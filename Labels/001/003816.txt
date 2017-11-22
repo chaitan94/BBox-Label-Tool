@@ -1,0 +1,14 @@
+523 173 731 371 Car
+782 205 817 257 Guidance_beacon
+931 84 956 140 Traffic_lights
+732 92 756 141 Traffic_lights
+803 140 814 159 Traffic_lights
+955 140 999 174 Give_way_sign
+165 192 267 228 Car
+26 203 104 234 Car
+295 189 365 217 Car
+428 182 462 201 Car
+379 185 417 204 Car
+887 280 1236 340 Continious_lane
+760 307 858 376 Continious_lane
+401 312 483 372 Continious_lane

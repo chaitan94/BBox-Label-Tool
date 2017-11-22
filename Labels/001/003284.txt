@@ -1,0 +1,5 @@
+840 67 1206 372 Truck
+1204 107 1242 148 Priority_crossing_point
+555 168 592 195 Car
+88 168 184 227 Car
+62 163 97 213 Car

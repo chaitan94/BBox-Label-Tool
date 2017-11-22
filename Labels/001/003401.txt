@@ -1,0 +1,15 @@
+237 172 253 232 Guidance_beacon_right
+292 171 306 221 Guidance_beacon_right
+336 170 350 210 Guidance_beacon_right
+363 170 374 208 Guidance_beacon_right
+383 167 396 202 Guidance_beacon_right
+432 168 447 224 Guidance_beacon_right
+444 169 454 213 Guidance_beacon_right
+457 170 468 203 Guidance_beacon_right
+488 169 497 197 Guidance_beacon_right
+510 170 517 188 Guidance_beacon_right
+668 179 689 231 Guidance_beacon_right
+650 174 660 216 Guidance_beacon_right
+630 172 642 201 Guidance_beacon_right
+574 173 604 197 Car
+545 172 570 195 Car

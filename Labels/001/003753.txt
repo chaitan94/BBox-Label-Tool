@@ -1,0 +1,17 @@
+723 163 786 342 Pedestrian
+946 133 1007 282 Pedestrian
+1024 144 1073 270 Pedestrian
+603 171 620 231 Pedestrian
+617 171 632 225 Pedestrian
+595 168 605 224 Pedestrian
+491 172 518 238 Pedestrian
+471 172 494 237 Pedestrian
+556 171 582 236 Pedestrian
+147 214 215 299 Person_sitting
+259 226 324 366 Person_sitting
+320 223 360 356 Person_sitting
+349 221 385 331 Person_sitting
+226 206 257 258 Person_sitting
+394 206 431 279 Person_sitting
+431 193 462 246 Person_sitting
+673 44 707 164 Lamppost

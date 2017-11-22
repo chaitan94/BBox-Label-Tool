@@ -1,0 +1,7 @@
+453 177 494 205 Car
+559 174 575 187 Car
+581 176 602 189 Car
+221 178 238 242 Guidance_beacon_right
+415 174 429 206 Guidance_beacon_right
+503 171 511 189 Guidance_beacon_right
+13 258 303 358 Continious_lane

@@ -1,0 +1,6 @@
+722 182 810 240 Car
+809 131 819 156 Traffic_lights
+639 60 648 85 Traffic_lights
+516 140 524 160 Traffic_lights
+366 177 416 204 Car
+1142 156 1227 181 Car

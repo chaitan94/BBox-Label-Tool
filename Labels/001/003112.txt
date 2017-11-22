@@ -1,0 +1,7 @@
+467 180 504 203 Car
+583 176 604 190 Car
+565 175 581 186 Car
+526 177 542 190 Car
+248 181 264 236 Guidance_beacon_right
+429 176 436 208 Guidance_beacon_right
+513 174 518 190 Guidance_beacon_right

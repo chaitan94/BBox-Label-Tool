@@ -1,0 +1,8 @@
+19 43 67 97 Forbidden_to_park
+737 186 757 245 Pedestrian
+1121 228 1228 339 Person_sitting
+646 177 659 204 Pedestrian
+194 112 239 262 Window
+54 142 95 201 Window
+373 153 393 203 Window
+374 206 393 255 Window

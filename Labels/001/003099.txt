@@ -1,0 +1,4 @@
+0 214 419 376 Car
+524 178 601 234 Car
+660 179 671 213 Guidance_beacon_left
+889 164 913 213 Pedestrian

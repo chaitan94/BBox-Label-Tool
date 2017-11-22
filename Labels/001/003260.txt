@@ -1,0 +1,15 @@
+448 237 570 337 Continious_lane
+695 236 769 336 Continious_lane
+633 28 649 59 Traffic_lights
+482 136 491 160 Traffic_lights
+845 138 854 152 Traffic_lights
+870 113 880 149 Traffic_lights
+786 149 792 161 Traffic_lights
+299 186 355 192 Scare_fence
+323 195 358 201 Scare_fence
+769 186 933 283 Car
+581 173 654 200 Car
+391 180 457 207 Car
+240 178 291 208 Car
+712 172 728 183 Car
+783 167 847 185 Car

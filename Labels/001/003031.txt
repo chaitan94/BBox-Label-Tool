@@ -1,0 +1,8 @@
+581 168 603 189 Car
+557 170 577 186 Car
+87 175 125 268 Guidance_beacon_right
+396 173 409 211 Guidance_beacon_right
+440 170 452 202 Guidance_beacon_right
+468 170 476 191 Guidance_beacon_right
+481 168 486 191 Guidance_beacon_right
+623 167 629 188 Guidance_beacon_right

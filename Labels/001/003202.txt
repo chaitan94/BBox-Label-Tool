@@ -1,0 +1,6 @@
+82 181 145 288 Pedestrian
+603 174 617 188 Car
+564 174 578 186 Car
+883 146 891 167 Give_way_sign
+392 283 513 376 Continious_lane
+550 191 610 228 Continious_lane

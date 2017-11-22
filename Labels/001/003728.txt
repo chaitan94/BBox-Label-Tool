@@ -1,0 +1,9 @@
+0 220 330 376 Car
+675 177 691 226 Pedestrian
+695 172 717 227 Pedestrian
+537 173 561 230 Pedestrian
+1153 142 1234 369 Pedestrian
+982 187 1022 219 Pedestrian
+575 27 594 64 Window
+614 43 620 60 Window
+872 3 891 62 Window

@@ -1,0 +1,6 @@
+555 172 701 302 Car
+1085 135 1210 302 Cyclist
+3 3 232 357 Tram
+652 141 663 156 Traffic_lights
+604 91 617 109 Traffic_lights
+594 90 604 110 Traffic_lights

@@ -1,0 +1,10 @@
+3 171 208 375 Car
+323 119 351 145 End_zone_speed_A02-30
+773 125 803 152 Give_way_sign
+827 169 864 213 Pedestrian
+1057 238 1084 365 Pole
+897 214 910 302 Pole
+809 207 822 267 Pole
+767 202 775 248 Pole
+408 154 425 167 One_way_street
+558 180 574 194 One_way_road_right

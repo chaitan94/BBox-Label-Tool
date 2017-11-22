@@ -1,0 +1,12 @@
+884 139 1003 376 Pedestrian
+750 116 878 371 Pedestrian
+589 142 622 235 Pedestrian
+616 147 644 214 Pedestrian
+563 148 587 216 Pedestrian
+531 131 560 213 Pedestrian
+336 147 400 333 Pedestrian
+574 34 602 99 Window
+523 31 552 100 Window
+472 28 499 97 Window
+5 94 262 379 Van
+605 80 619 140 Lamppost
