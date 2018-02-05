@@ -62,7 +62,7 @@ class LabelTool():
         self.label = Label(self.frame, text = "Image Dir:")
         self.label.grid(row = 0, column = 0, sticky = E)
         self.entry = Entry(self.frame)
-	self.entry.insert(END, '1')
+        self.entry.insert(END, '1')
         self.entry.grid(row = 0, column = 1, sticky = W+E)
         self.ldBtn = Button(self.frame, text = "Load", command = self.loadDir)
         self.ldBtn.grid(row = 0, column = 2,sticky = W+E)
@@ -76,6 +76,12 @@ class LabelTool():
         self.parent.bind("a", self.prevImage) # press 'a' to go backwards
         self.parent.bind("d", self.nextImage) # press 'd' to go forward
         self.mainPanel.grid(row = 1, column = 1, rowspan = 4, sticky = W+N)
+
+        # For zooming
+        self.mainPanel.bind_all("<Button-4>", self.zoomIn)
+        self.mainPanel.bind_all("<Button-5>", self.zoomOut)
+        self.zoomValue = 0
+        self.zimg_id = None
 
         # choose class
         self.classname = StringVar()
@@ -137,7 +143,7 @@ class LabelTool():
 
         self.frame.columnconfigure(1, weight = 1)
         self.frame.rowconfigure(4, weight = 1)
-	self.loadDir()
+        self.loadDir()
 
         # for debugging
 ##        self.setImage()
@@ -157,7 +163,7 @@ class LabelTool():
         self.imageDir = os.path.join(r'./Images', '%03d' %(self.category))
         #print self.imageDir 
         #print self.category
-        self.imageList = glob.glob(os.path.join(self.imageDir, '*.JPG'))
+        self.imageList = glob.glob(os.path.join(self.imageDir, '*.jpg'))
         #print self.imageList
         if len(self.imageList) == 0:
             print 'No .JPG images found in the specified dir!'
@@ -246,12 +252,31 @@ class LabelTool():
     def mouseMove(self, event):
         self.disp.config(text = 'x: %d, y: %d' %(event.x, event.y))
         if self.tkimg:
+            # Draw the zoomed in spot
+            if self.zimg_id: self.mainPanel.delete(self.zimg_id)
+            if (self.zoomValue) != 0:
+                x, y = event.x, event.y
+                if self.zoomValue == 1:
+                    tmp = self.img.crop((x-45, y-30, x+45, y+30))
+                elif self.zoomValue == 2:
+                    tmp = self.img.crop((x-30, y-20, x+30, y+20))
+                elif self.zoomValue == 3:
+                    tmp = self.img.crop((x-15, y-10, x+15, y+10))
+                elif self.zoomValue == 4:
+                    tmp = self.img.crop((x-6, y-4, x+6, y+4))
+                size = 150, 150
+                # crop tmp somehow to make the image a circle? maybe?
+                self.zimg = ImageTk.PhotoImage(tmp.resize(size))
+                self.zimg_id = self.mainPanel.create_image(event.x, event.y, image=self.zimg)
+
             if self.hl:
                 self.mainPanel.delete(self.hl)
             self.hl = self.mainPanel.create_line(0, event.y, self.tkimg.width(), event.y, width = 2)
             if self.vl:
                 self.mainPanel.delete(self.vl)
             self.vl = self.mainPanel.create_line(event.x, 0, event.x, self.tkimg.height(), width = 2)
+
+
         if 1 == self.STATE['click']:
             if self.bboxId:
                 self.mainPanel.delete(self.bboxId)
@@ -259,6 +284,16 @@ class LabelTool():
                                                             event.x, event.y, \
                                                             width = 2, \
                                                             outline = COLORS[len(self.bboxList) % len(COLORS)])
+
+    def zoomOut(self, event):
+        if self.zoomValue > 0:
+            self.zoomValue -= 1
+        self.mouseMove(event)
+
+    def zoomIn(self, event):
+        if self.zoomValue < 4:
+            self.zoomValue += 1
+        self.mouseMove(event)
 
     def cancelBBox(self, event):
         if 1 == self.STATE['click']:
