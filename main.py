@@ -83,6 +83,10 @@ class LabelTool():
         self.zoomValue = 0
         self.zimg_id = None
 
+        # Shortcuts for quick-switch between classes using number keys
+        for num in range(1, 10):
+            self.parent.bind(str(num), self.switchClass)
+
         # choose class
         self.classname = StringVar()
         self.classcandidate = ttk.Combobox(self.frame,state='readonly',textvariable=self.classname)
@@ -301,6 +305,11 @@ class LabelTool():
                 self.mainPanel.delete(self.bboxId)
                 self.bboxId = None
                 self.STATE['click'] = 0
+
+    def switchClass(self, event):
+        classNum = int(event.char) - 1
+        self.currentLabelclass = self.classcandidate['values'][classNum]
+        self.classcandidate.set(self.classcandidate['values'][classNum])
 
     def delBBox(self):
         sel = self.listbox.curselection()
